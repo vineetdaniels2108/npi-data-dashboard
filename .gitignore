@@ -1,7 +1,17 @@
-# Large data files
-*.csv
-*.xlsx
-*.xls
+# Large data files (excluding essential ones for deployment)
+# *.csv
+# *.xlsx  
+# *.xls
+
+# Exclude specific large files but keep essential data
+ELLKAY*.csv
+New File.xlsx
+
+# Keep these essential files for deployment:
+# complete_npi_dataset_all_tabs.csv
+# processed_npi_data.csv
+# enhanced_npi_data.csv
+# tabs_summary.csv
 
 # Python
 __pycache__/
