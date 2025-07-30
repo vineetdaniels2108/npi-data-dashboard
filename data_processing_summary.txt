@@ -1,0 +1,34 @@
+NPI Data Processing Summary
+==================================================
+Total Records: 199484
+Unique NPIs: 179410
+Total Tabs: 23
+Provider Records: 25507
+Organization Records: 173977
+Unknown Records: 0
+States Covered: 56
+
+Records by Tab:
+  - Direct EHR 1A: 160190
+  - Direct EHR 2 OA: 13729
+  - Novant Health: 9304
+  - St Lukes University Health Netw: 5369
+  - Guthrie Clinic: 2669
+  - Childrens Nationl Hospital: 2432
+  - Eastern Connecticut Health Netw: 1048
+  - Altru: 1019
+  - Crozer Health: 817
+  - Dartmouth: 639
+  - Catholic Medical Center: 639
+  - Sheet1: 634
+  - Trinity Health ND: 620
+  - West River Health Services : 93
+  - St Andrew: 70
+  - St Aloisius: 66
+  - South Central Health: 44
+  - Ashley Medical Center: 23
+  - Unity Health Care: 21
+  - St Kateri: 21
+  - Primary Health Services Center: 15
+  - Healthways: 13
+  - Ammonoosuc Community Health Ser: 9
