@@ -1,0 +1,519 @@
+Original_Facility_Name,Hospital_Code,Matched_Facility_Name,NPI,Match_Type,Similarity_Score,Matched_Column,Provider_Type,Provider_Name,City,State,Address,Phone,Specialty,Tab_Source
+AHN WEXFORD HOSPITAL,AHNW,AHN WEXFORD HOSPITAL,1679927180.0,Exact,100%,Primary Hospital Affiliation,Physician,Veres,Grove City,PA,,724.450.7246,Hospitalist,St Lukes University Health Netw
+ALAMANCE REGIONAL MEDICAL CENTER,ALRM,ALAMANCE REGIONAL MEDICAL CENTER,1396354734.0,Exact,100%,Primary Hospital Affiliation,Nurse Practitioner,Cable,Whitsett,NC,,336.449.9848,Nurse - Nurse Practitioner,Novant Health
+ARNOT OGDEN MEDICAL CENTER,ARNO,ARNOT OGDEN MEDICAL CENTER,1730282906.0,Exact,100%,Primary Hospital Affiliation,Physician,Abderhalden-Friend,Horseheads,NY,,607.739.0352,Internal Medicine,Guthrie Clinic
+PRISMA HEALTH BAPTIST HOSPITAL,BAPT,PRISMA HEALTH BAPTIST HOSPITAL,1598993636.0,Exact,100%,Secondary Hospital Affiliation,Physician,Singh,Troy,PA,,570.297.2121,Anesthesiology - Anesthesiologist,Guthrie Clinic
+BROWARD HEALTH MEDICAL CENTER,BGMC,BROWARD HEALTH MEDICAL CENTER,1194790923.0,Exact,100%,Secondary Hospital Affiliation,Physician,Sussman,Corning,NY,,607.973.8000,Otolaryngology,Guthrie Clinic
+BOCA RATON REGIONAL HOSPITAL,BOCA,BOCA RATON REGIONAL HOSPITAL,1982083663.0,Exact,100%,Primary Hospital Affiliation,Physician,Catella,Boca Raton,FL,,561.939.0200,Internal Medicine,Eastern Connecticut Health Netw
+SIGNATURE HEALTHCARE BROCKTON HOSPITAL,BRCT,SIGNATURE HEALTHCARE BROCKTON HOSPITAL,1881647394.0,Exact,100%,Primary Hospital Affiliation,Physician,Yung,East Hartford,CT,,860.246.6589,Radiology - Diagnostic Radiology,Eastern Connecticut Health Netw
+CAPE CORAL HOSPITAL,CACH,CAPE CORAL HOSPITAL,1942421110.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Leymeister,Cape Coral,FL,,239.343.9960,Physician Assistant,St Lukes University Health Netw
+CHARLESTON AREA MEDICAL CENTER,CAMC,CHARLESTON AREA MEDICAL CENTER,nan,Exact,100%,medical group,,,,,,,,Direct EHR 1A
+HCA FLORIDA CAPITAL HOSPITAL,CAPI,HCA FLORIDA CAPITAL HOSPITAL,1295700920.0,Exact,100%,Secondary Hospital Affiliation,Physician,Hamet,Miami,FL,,786.596.1289,Radiology - Diagnostic Radiology,St Lukes University Health Netw
+CATAWBA VALLEY MEDICAL CENTER,CATV,CATAWBA VALLEY MEDICAL CENTER,1619142320.0,Exact,100%,Primary Hospital Affiliation,Nurse Practitioner,Coates,Hickory,NC,,828.326.2109,Nurse - Nurse Practitioner,Novant Health
+UPSTATE COMMUNITY HOSPITAL,CGEN,UPSTATE COMMUNITY HOSPITAL,1104061217.0,Exact,100%,Primary Hospital Affiliation,Nurse Practitioner,Broton,Syracuse,NY,,315.464.4357,Nurse - Nurse Practitioner,Guthrie Clinic
+MUSC HEALTH FLORENCE MEDICAL CENTER,COHS,MUSC HEALTH FLORENCE MEDICAL CENTER,1265798722.0,Exact,100%,Secondary Hospital Affiliation,Physician,Baker Frost,Summerville,SC,,843.792.1414,Rheumatology,Novant Health
+ST LUCIE MEDICAL CENTER,COLM,ST LUCIE MEDICAL CENTER,1366884926.0,Exact,100%,Primary Hospital Affiliation,Physician,Higginbotham,Charlotte,NC,,704.384.7980,Family Practice,Novant Health
+GUTHRIE CORNING HOSPITAL,CORH,GUTHRIE CORNING HOSPITAL,1568983062.0,Exact,100%,Primary Hospital Affiliation,Physician,Ahmed,Corning,NY,,607.973.8000,Internal Medicine,Guthrie Clinic
+EMORY DECATUR HOSPITAL,DEKA,EMORY DECATUR HOSPITAL,1275891053.0,Exact,100%,Primary Hospital Affiliation,Physician,Narayanan,Decatur,GA,,404.778.3184,Gastroenterology,St Lukes University Health Netw
+PIEDMONT EASTSIDE MEDICAL CENTER,EEMC,PIEDMONT EASTSIDE MEDICAL CENTER,1275026502.0,Exact,100%,Secondary Hospital Affiliation,Physician Assistant,Burden,Gloversville,NY,,518.775.4281,Physician Assistant,Guthrie Clinic
+INOVA FAIRFAX MEDICAL CAMPUS,FFAX,INOVA FAIRFAX MEDICAL CAMPUS,1326276981.0,Exact,100%,Primary Hospital Affiliation,Physician,Amin,Fairfax,VA,,571.200.1839,Pediatric Medicine,Childrens Nationl Hospital
+FLAGLER HOSPITAL,FLAH,FLAGLER HOSPITAL,1467775361.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Lynch,Corning,NY,,607.937.7200,Physician Assistant,Guthrie Clinic
+FLOYD MEDICAL CENTER,FLDC,FLOYD MEDICAL CENTER,1619156981.0,Exact,100%,Primary Hospital Affiliation,Physician,Hearn,Cedartown,GA,,770.748.7818,Family Practice,Novant Health
+NOVANT HEALTH FORSYTH MEDICAL CENTER,FORS,NOVANT HEALTH FORSYTH MEDICAL CENTER,1568807923.0,Exact,100%,Primary Hospital Affiliation,Physician,Raparla,Winston Salem,NC,,336.718.8383,Hospitalist,Childrens Nationl Hospital
+FAIRVIEW PARK HOSPITAL,FWPH,FAIRVIEW PARK HOSPITAL,1437786308.0,Exact,100%,Primary Hospital Affiliation,Physician,Ricci,Fort Stewart,GA,,912.435.6965,Emergency Medicine,Novant Health
+CAROMONT REGIONAL MEDICAL CENTER,GMHL,CAROMONT REGIONAL MEDICAL CENTER,1518940584.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Branum,Charlotte,NC,,704.323.2000,Physician Assistant,Novant Health
+UPMC HARRISBURG,HARR,UPMC HARRISBURG,1396745436.0,Exact,100%,Primary Hospital Affiliation,Physician,Boline,Orwigsburg,PA,,272.639.5130,Urology,St Lukes University Health Netw
+HOLMES REGIONAL MEDICAL CENTER,HOLM,HOLMES REGIONAL MEDICAL CENTER,1902081318.0,Exact,100%,Primary Hospital Affiliation,Physician,Labrunda,Columbia,SC,,803.434.6771,Hospitalist,Guthrie Clinic
+HIGH POINT MEDICAL CENTER,HPRH,HIGH POINT MEDICAL CENTER,1801825583.0,Exact,100%,Primary Hospital Affiliation,Physician,Bhatti,Asheboro,NC,,336.625.5151,Hospitalist,Novant Health
+IREDELL MEMORIAL HOSPITAL,IRMH,IREDELL MEMORIAL HOSPITAL,1457343337.0,Exact,100%,Primary Hospital Affiliation,Physician,Braunstein,Statesville,NC,,704.871.8999,Neurology,Novant Health
+JEFFERSON HOSPITAL,JEFH,JEFFERSON HOSPITAL,1306368378.0,Exact,100%,Primary Hospital Affiliation,Nurse Practitioner,Panek,Wilmington,NC,,910.343.7000,Nurse - Nurse Practitioner,Novant Health
+HCA FLORIDA LAWNWOOD HOSPITAL,LAWN,HCA FLORIDA LAWNWOOD HOSPITAL,1487974226.0,Exact,100%,Primary Hospital Affiliation,Physician,Moore,Fort Pierce,FL,,772.468.4000,Emergency Medicine,Novant Health
+INOVA LOUDOUN HOSPITAL,LDHP,INOVA LOUDOUN HOSPITAL,1922265164.0,Exact,100%,Primary Hospital Affiliation,Physician,Garg,Ashburn,VA,,703.554.1100,Internal Medicine,Childrens Nationl Hospital
+LAKE NORMAN REGIONAL MEDICAL CENTER,LNRM,LAKE NORMAN REGIONAL MEDICAL CENTER,1073750683.0,Exact,100%,Primary Hospital Affiliation,Podiatrist,Ades,Mooresville,NC,,704.662.3660,Podiatry,Novant Health
+LUTHERAN MEDICAL CENTER,LTMC,LUTHERAN MEDICAL CENTER,1801894902.0,Exact,100%,Primary Hospital Affiliation,Physician,Gabriel,Brooklyn,NY,,718.833.2300,Pediatric Medicine,St Lukes University Health Netw
+WYNN HOSPITAL,LUKE,WYNN HOSPITAL,1346290749.0,Exact,100%,Secondary Hospital Affiliation,Physician,Kerney,Utica,NY,,315.624.6241,Obstetrics/Gynecology,Guthrie Clinic
+LEXINGTON MEDICAL CENTER,LXMC,LEXINGTON MEDICAL CENTER,1326108887.0,Exact,100%,Primary Hospital Affiliation,Physician,Arnold,Lexington,NC,,336.249.7051,Internal Medicine,Novant Health
+MARY WASHINGTON HOSPITAL,MARY,MARY WASHINGTON HOSPITAL,1932460698.0,Exact,100%,Primary Hospital Affiliation,Physician,Asefa,Washington,DC,,888.884.2327,Neonatal-Perinatal Medicine,Childrens Nationl Hospital
+MISSION HOSPITAL,MASH,MISSION HOSPITAL,1508979519.0,Exact,100%,Primary Hospital Affiliation,Physician,Ikelheimer,Manassas,VA,,703.369.8465,Psychiatry,St Lukes University Health Netw
+MERCY HOSPITAL OF BUFFALO,MCYB,MERCY HOSPITAL OF BUFFALO,1700261278.0,Exact,100%,Secondary Hospital Affiliation,Hospitalist,Cheema,Olean,NY,,716.375.7027,Internal Medicine,Guthrie Clinic
+MEASE COUNTRYSIDE HOSPITAL,MECH,MEASE COUNTRYSIDE HOSPITAL,1265492730.0,Exact,100%,Primary Hospital Affiliation,Physician,Aviles,La Crosse,WI,,608.775.2702,Gastroenterology,Altru
+MEMORIAL HOSPITAL WEST,MEMW,MEMORIAL HOSPITAL WEST,1780280255.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Cabarcas,Pembroke Pines,FL,,954.436.5000,Physician Assistant,St Lukes University Health Netw
+NICKLAUS CHILDRENS HOSPITAL,MICH,NICKLAUS CHILDRENS HOSPITAL,1891925103.0,Exact,100%,Secondary Hospital Affiliation,Physician,Button,Miami,FL,,305.669.6543,Emergency Medicine - Pediatric,Childrens Nationl Hospital
+BON SECOURS MARY IMMACULATE HOSPITAL,MMIH,BON SECOURS MARY IMMACULATE HOSPITAL,1538374319.0,Exact,100%,Secondary Hospital Affiliation,Physician,Volodka,Wilmington,NC,,910.667.2970,Neonatal-Perinatal Medicine,Novant Health
+MONMOUTH MEDICAL CENTER,MONM,MONMOUTH MEDICAL CENTER,1629690201.0,Exact,100%,Primary Hospital Affiliation,Physician,Hakim,Bethlehem,PA,,484.526.4000,Emergency Medicine,St Lukes University Health Netw
+MCLEOD REGIONAL MEDICAL CENTER,MRMC,MCLEOD REGIONAL MEDICAL CENTER,1083707285.0,Exact,100%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Coursey,Wilmington,NC,,910.662.8400,Anesthesiology - Certified Registered Nurse Anesthetist,Novant Health
+SENTARA MARTHA JEFFERSON HOSPITAL,MTJH,SENTARA MARTHA JEFFERSON HOSPITAL,1629621172.0,Exact,100%,Secondary Hospital Affiliation,Certified Registered Nurse Anesthetist,Bowles,Charlottesville,VA,,434.982.0655,Anesthesiology - Certified Registered Nurse Anesthetist,Novant Health
+METROWEST MEDICAL CENTER,MWMC,METROWEST MEDICAL CENTER,1154490696.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Markowitz,Oak Bluffs,MA,,508.693.0410,Internal Medicine,St Lukes University Health Netw
+GRAND VIEW HOSPITAL,N143,GRAND VIEW HOSPITAL,1265424477.0,Exact,100%,Primary Hospital Affiliation,Physician,Alderfer,Sellersville,PA,,215.257.9500,Cardiology - Cardiologist,St Lukes University Health Netw
+UPMC PINNACLE MEMORIAL,N171,UPMC PINNACLE MEMORIAL,1679830624.0,Exact,100%,Secondary Hospital Affiliation,Physician,Ayalew,Hershey,PA,,717.531.8903,Hospitalist,St Lukes University Health Netw
+UPMC PINNACLE HANOVER,N301,UPMC PINNACLE HANOVER,1093389041.0,Exact,100%,Primary Hospital Affiliation,Physician,Rohrbaugh,Easton,PA,,484.526.1000,Emergency Medicine,St Lukes University Health Netw
+PIEDMONT ATHENS REGIONAL,N364,PIEDMONT ATHENS REGIONAL,1174785513.0,Exact,100%,Primary Hospital Affiliation,Physician,Malka,Atlanta,GA,,470.788.1010,Neurology,Sheet1
+EXCELA HEALTH WESTMORELAND HOSPITAL,N465,EXCELA HEALTH WESTMORELAND HOSPITAL,1811200025.0,Exact,100%,Primary Hospital Affiliation,Physician,Ojide,Bethlehem,PA,,484.526.6643,Hospitalist,St Lukes University Health Netw
+NORTHEAST GEORGIA MEDICAL CENTER,NEGA,NORTHEAST GEORGIA MEDICAL CENTER,1477888964.0,Exact,100%,Primary Hospital Affiliation,Physician,Crichlow,Braselton,GA,,770.219.9200,Surgery - General Surgery,Crozer Health
+NOVANT HEALTH BALLANTYNE MEDICAL CENTER,NHBM,NOVANT HEALTH BALLANTYNE MEDICAL CENTER,1497728174.0,Exact,100%,Primary Hospital Affiliation,Physician,Acampora,Charlotte,NC,,704.540.1640,Internal Medicine,Novant Health
+NOVANT HEALTH KERNERSVILLE MEDICAL CENTER,NHKM,NOVANT HEALTH KERNERSVILLE MEDICAL CENTER,1649766379.0,Exact,100%,Secondary Hospital Affiliation,Nurse Practitioner,Irvin,Greensboro,NC,,336.832.6518,Nurse - Nurse Practitioner,Novant Health
+NOVANT HEALTH MINT HILL MEDICAL CENTER,NHMM,NOVANT HEALTH MINT HILL MEDICAL CENTER,1598212847.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Acheampong,Huntersville,NC,,704.316.2050,Physician Assistant,Novant Health
+SHADY GROVE MEDICAL CENTER,NNHY,SHADY GROVE MEDICAL CENTER,1649234337.0,Exact,100%,Primary Hospital Affiliation,Physician,Choi,Rockville,MD,,301.984.9490,Pediatric Medicine,Childrens Nationl Hospital
+MORTON PLANT HOSPITAL,NNJV,MORTON PLANT HOSPITAL,1366769663.0,Exact,100%,Secondary Hospital Affiliation,Physician,Gringut,East Stroudsburg,PA,,570.424.9970,Cardiology - Cardiologist,St Lukes University Health Netw
+NORTHSIDE HOSPITAL CHEROKEE,NOHC,NORTHSIDE HOSPITAL CHEROKEE,1487051157.0,Exact,100%,Primary Hospital Affiliation,Physician,Elabor,Canton,GA,,678.493.2527,Critical Care (Intensivists),St Lukes University Health Netw
+NORTHSIDE HOSPITAL,NSHP,NORTHSIDE HOSPITAL,1285924126.0,Exact,100%,Primary Hospital Affiliation,Physician,Bhateja,Cadillac,MI,,231.876.7200,Internal Medicine,Eastern Connecticut Health Netw
+NYACK HOSPITAL,NYAC,NYACK HOSPITAL,1265844898.0,Exact,100%,Primary Hospital Affiliation,Physician,Rangavajjula,Easton,PA,,484.526.7246,Pain Management,St Lukes University Health Netw
+ORANGE PARK MEDICAL CENTER,OPKM,ORANGE PARK MEDICAL CENTER,1659685279.0,Exact,100%,Primary Hospital Affiliation,Physician,Melera,Orange Park,FL,,904.276.2549,Surgery - General Surgery,Altru
+PRISMA HEALTH RICHLAND HOSPITAL,PARM,PRISMA HEALTH RICHLAND HOSPITAL,1861699969.0,Exact,100%,Primary Hospital Affiliation,Physician,Bonilha,Columbia,SC,,803.434.8050,Neurology,Novant Health
+NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER,PBHL,NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER,1760172647.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Abercrombie,Charlotte,NC,,704.316.5025,Physician Assistant,Novant Health
+NOVANT HEALTH MATTHEWS MEDICAL CENTER,PBHM,NOVANT HEALTH MATTHEWS MEDICAL CENTER,1255511028.0,Exact,100%,Primary Hospital Affiliation,Physician,Abdel Nour,Matthews,NC,,704.384.9200,Pulmonary Disease,Novant Health
+PIEDMONT HOSPITAL,PDMT,PIEDMONT HOSPITAL,1174968838.0,Exact,100%,Secondary Hospital Affiliation,Physician,Park,Washington,DC,,202.476.2185,Nephrology,Childrens Nationl Hospital
+PIEDMONT FAYETTE HOSPITAL,PFAY,PIEDMONT FAYETTE HOSPITAL,1316944697.0,Exact,100%,Primary Hospital Affiliation,Physician,Bodne,Newnan,GA,,770.400.2100,Radiology - Diagnostic Radiology,Trinity Health ND
+PALMETTO HEALTH BAPTIST PARKRIDGE,PHBP,PALMETTO HEALTH BAPTIST PARKRIDGE,1417451717.0,Exact,100%,Secondary Hospital Affiliation,Physician,Ervin,Columbia,SC,,803.434.4153,Hospitalist,Novant Health
+PIEDMONT MEDICAL CENTER,PIED,PIEDMONT MEDICAL CENTER,1124234901.0,Exact,100%,Primary Hospital Affiliation,Physician,Dave,Laurinburg,NC,,910.291.7630,Oncology - Hematology/Oncology,Sheet1
+PIEDMONT NEWNAN HOSPITAL,PINH,PIEDMONT NEWNAN HOSPITAL,1699710442.0,Exact,100%,Primary Hospital Affiliation,Physician,Haugabrook,Conyers,GA,,770.942.1044,Hospitalist,Eastern Connecticut Health Netw
+NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER,PRSH,NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER,1356324826.0,Exact,100%,Primary Hospital Affiliation,Physician,Abinanti,Charlotte,NC,,704.332.1291,Radiology - Diagnostic Radiology,Novant Health
+CARILION NEW RIVER VALLEY MEDICAL CENTER,RADF,CARILION NEW RIVER VALLEY MEDICAL CENTER,1598718660.0,Exact,100%,Primary Hospital Affiliation,Physician,Burbridge,Washington,DC,,888.884.2327,Pediatric Medicine,Childrens Nationl Hospital
+RALEIGH GENERAL HOSPITAL,RAGH,RALEIGH GENERAL HOSPITAL,1639691777.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Shrestha,Charlotte,NC,,704.384.5416,Internal Medicine,Novant Health
+RESTON HOSPITAL CENTER,REST,RESTON HOSPITAL CENTER,1942224522.0,Exact,100%,Primary Hospital Affiliation,Physician,Deshmukh,Fredericksburg,VA,,540.539.6852,Surgery - Vascular Surgery,Guthrie Clinic
+WINTER HAVEN WOMENS HOSPITAL,RGMC,WINTER HAVEN WOMENS HOSPITAL,1851536932.0,Exact,100%,Secondary Hospital Affiliation,Physician,Figueroa,Winter Haven,FL,,863.293.1191,Ophthalmology,St Lukes University Health Netw
+RIVERSIDE REGIONAL MEDICAL CENTER,RVRR,RIVERSIDE REGIONAL MEDICAL CENTER,1780805077.0,Exact,100%,Primary Hospital Affiliation,Physician,Zhao,Phoenixville,PA,,610.983.1000,Neurology,Novant Health
+ST VINCENT HOSPITAL,SAVH,ST VINCENT HOSPITAL,1922267723.0,Exact,100%,Primary Hospital Affiliation,Physician,Wu,Minot,ND,,704.857.5124,Anesthesiology - Anesthesiologist,Trinity Health ND
+SINAI HOSPITAL OF BALTIMORE,SINA,SINAI HOSPITAL OF BALTIMORE,1821664780.0,Exact,100%,Primary Hospital Affiliation,Physician,Benavie,Easton,PA,,484.526.1000,Emergency Medicine,St Lukes University Health Netw
+SOUTH LAKE HOSPITAL,SLAK,SOUTH LAKE HOSPITAL,1063462216.0,Exact,100%,Primary Hospital Affiliation,Physician,Cowles,Clearwater,FL,,727.507.3600,Emergency Medicine,Guthrie Clinic
+SENTARA RMH MEDICAL CENTER,SROC,SENTARA RMH MEDICAL CENTER,1528291762.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Rydock,Harrisonburg,VA,,540.564.5800,Physician Assistant,Novant Health
+STONESPRINGS HOSPITAL CENTER,SSPG,STONESPRINGS HOSPITAL CENTER,1952561581.0,Exact,100%,Secondary Hospital Affiliation,Physician,Brostowicz,Washington,DC,,202.476.5448,Neonatal-Perinatal Medicine,Childrens Nationl Hospital
+SOUTHSIDE MEDICAL CENTER,SSRE,SOUTHSIDE MEDICAL CENTER,nan,Exact,100%,medical group,,,,,,,,Direct EHR 1A
+ASCENSION ST VINCENTS CLAY COUNTY,SVCC,ASCENSION ST VINCENTS CLAY COUNTY,1588922249.0,Exact,100%,Primary Hospital Affiliation,Physician,Azoulay,Middleburg,FL,,904.602.1000,Hospitalist,Sheet1
+THOMAS MEMORIAL HOSPITAL,TMMH,THOMAS MEMORIAL HOSPITAL,1669480505.0,Exact,100%,Secondary Hospital Affiliation,Physician,Al-Ashhab,Charleston,WV,,304.342.0821,Gastroenterology,Novant Health
+NOVANT HEALTH THOMASVILLE MEDICAL CENTER,TVMC,NOVANT HEALTH THOMASVILLE MEDICAL CENTER,1487940292.0,Exact,100%,Primary Hospital Affiliation,Physician,Aalto,Thomasville,NC,,336.475.6139,Obstetrics/Gynecology,Novant Health
+UPMC PINNACLE CARLISLE,UPCH,UPMC PINNACLE CARLISLE,1578557740.0,Exact,100%,Primary Hospital Affiliation,Podiatrist,Steber,Carlisle,PA,,717.218.9510,Podiatry,St Lukes University Health Netw
+PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL,UPST,PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL,1487883443.0,Exact,100%,Primary Hospital Affiliation,Physician,Ephrussi,Greenville,SC,,864.454.2270,Rheumatology,Childrens Nationl Hospital
+CENTRA VIRGINIA BAPTIST HOSPITAL,VBAP,CENTRA VIRGINIA BAPTIST HOSPITAL,1396088092.0,Exact,100%,Primary Hospital Affiliation,Physician,Hosni,Lynchburg,VA,,434.200.5895,Hospitalist,St Lukes University Health Netw
+WELLSTAR COBB HOSPITAL,WCOB,WELLSTAR COBB HOSPITAL,1316263353.0,Exact,100%,Secondary Hospital Affiliation,Physician,Hart,Rock Hill,SC,,803.366.5186,Radiology - Radiation Oncology,Novant Health
+WELLSTAR WEST GEORGIA MEDICAL CENTER,WGMC,WELLSTAR WEST GEORGIA MEDICAL CENTER,1942735758.0,Exact,100%,Primary Hospital Affiliation,Physician,Rahman,Lagrange,GA,,706.882.1411,Pulmonary Disease,St Lukes University Health Netw
+WINCHESTER MEDICAL CENTER,WIMC,WINCHESTER MEDICAL CENTER,1679884738.0,Exact,100%,Primary Hospital Affiliation,Physician,Cornett,Monroe Township,NJ,,732.235.8993,Internal Medicine,Eastern Connecticut Health Netw
+NYU WINTHROP HOSPITAL,WINT,NYU WINTHROP HOSPITAL,1053405498.0,Exact,100%,Secondary Hospital Affiliation,Physician,Blazey,Central Islip,NY,,631.348.3254,Family Practice,Guthrie Clinic
+UPMC WESTERN MARYLAND,WMMS,UPMC WESTERN MARYLAND,1679507248.0,Exact,100%,Primary Hospital Affiliation,Physician,Singh,Thousand Oaks,CA,,805.409.3088,Oncology - Hematology/Oncology,Childrens Nationl Hospital
+ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER,WOAK,ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER,1134279912.0,Exact,100%,Primary Hospital Affiliation,Physician,Petryniak,Washington,DC,,888.884.2327,Neonatal-Perinatal Medicine,Childrens Nationl Hospital
+WEST PENN HOSPITAL,WPAH,WEST PENN HOSPITAL,1295720068.0,Exact,100%,Primary Hospital Affiliation,Physician,Estock,Wexford,PA,,412.578.5858,Pediatric Medicine,Novant Health
+WELLSTAR DOUGLAS HOSPITAL,WSTA,WELLSTAR DOUGLAS HOSPITAL,1619330297.0,Exact,100%,Secondary Hospital Affiliation,Physician,Ajibade,Austell,GA,,770.793.5913,Obstetrics/Gynecology,Novant Health
+BLOUNT MEMORIAL HOSPITAL,BLNT,BLOUNT MEMORIAL HOSPITAL,1528030525.0,Exact,100%,Secondary Hospital Affiliation,Physician,Chung,Omaha,NE,,303.590.9795,Radiology - Diagnostic Radiology,Trinity Health ND
+BAPTIST MEDICAL CENTER EAST,BPCE,BAPTIST MEDICAL CENTER EAST,1588654685.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Lee,Knoxville,TN,,865.347.6025,Internal Medicine,Guthrie Clinic
+BRISTOL REGIONAL MEDICAL CENTER,BRST,BRISTOL REGIONAL MEDICAL CENTER,1205839248.0,Exact,100%,Secondary Hospital Affiliation,Physician,Hollandsworth,Sevierville,TN,,423.239.5141,Family Practice,Novant Health
+BAYLOR UNIVERSITY MEDICAL CENTER,BUNV,BAYLOR UNIVERSITY MEDICAL CENTER,1639465586.0,Exact,100%,Primary Hospital Affiliation,Physician,Raffoul,Dallas,TX,,972.817.6260,Family Practice,Childrens Nationl Hospital
+BAPTIST HEALTH LEXINGTON,CBHL,BAPTIST HEALTH LEXINGTON,1558516443.0,Exact,100%,Primary Hospital Affiliation,Physician,Huff,Charleston,SC,,843.792.2300,Neonatal-Perinatal Medicine,Novant Health
+TRISTAR CENTENNIAL MEDICAL CENTER,CNTL,TRISTAR CENTENNIAL MEDICAL CENTER,1700922630.0,Exact,100%,Primary Hospital Affiliation,Physician,Nottidge,Nashville,TN,,615.342.1000,Emergency Medicine,Eastern Connecticut Health Netw
+COOK CHILDRENS MEDICAL CENTER,COFW,COOK CHILDRENS MEDICAL CENTER,1013264050.0,Exact,100%,Secondary Hospital Affiliation,Physician,Solomon,Fort Worth,TX,,682.885.4000,Hospitalist,Childrens Nationl Hospital
+HCA HOUSTON HEALTHCARE CONROE,CONR,HCA HOUSTON HEALTHCARE CONROE,1063585164.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Leibovici,Greeneville,TN,,423.787.5094,Internal Medicine,Altru
+EAST ALABAMA MEDICAL CENTER,EALM,EAST ALABAMA MEDICAL CENTER,1154853232.0,Exact,100%,Primary Hospital Affiliation,Physician,Young,Auburn,AL,,334.745.6447,Obstetrics/Gynecology,Novant Health
+PARKWEST MEDICAL CENTER,FOSA,PARKWEST MEDICAL CENTER,1760862908.0,Exact,100%,Secondary Hospital Affiliation,Physician,Brooks,Lenoir City,TN,,865.271.6600,Family Practice,Novant Health
+GRANDVIEW MEDICAL CENTER,GDVM,GRANDVIEW MEDICAL CENTER,1225618382.0,Exact,100%,Primary Hospital Affiliation,Physician,Pollard,Birmingham,AL,,205.971.1000,Internal Medicine,St Lukes University Health Netw
+HARDIN MEMORIAL HOSPITAL,HMHO,HARDIN MEMORIAL HOSPITAL,1013422617.0,Exact,100%,Primary Hospital Affiliation,Physical Therapist,Medley,Springfield,KY,,859.481.9008,Therapy - Physical Therapist,Novant Health
+HORIZON MEDICAL CENTER,HOMC,HORIZON MEDICAL CENTER,1982050217.0,Exact,100%,Primary Hospital Affiliation,Podiatrist,Dijour,Winston Salem,NC,,336.277.6550,Podiatry,Novant Health
+INDIAN PATH MEDICAL CENTER,IPTH,INDIAN PATH MEDICAL CENTER,1962651828.0,Exact,100%,Secondary Hospital Affiliation,Physician,Wig,Knoxville,TN,,865.595.4100,Radiology - Diagnostic Radiology,Novant Health
+MERCY HOSPITAL ST LOUIS,JOHN,MERCY HOSPITAL ST LOUIS,1952566614.0,Exact,100%,Primary Hospital Affiliation,Physician,Rangaswamy,Chesterfield,MO,,314.251.5860,Neonatal-Perinatal Medicine,St Lukes University Health Netw
+ST JOSEPH MEDICAL CENTER,JOTX,ST JOSEPH MEDICAL CENTER,1881652733.0,Exact,100%,Primary Hospital Affiliation,Physician,Allen,Reading,PA,,,Surgery - Neurosurgery,St Lukes University Health Netw
+HCA HOUSTON HEALTHCARE KINGWOOD,KING,HCA HOUSTON HEALTHCARE KINGWOOD,1326530668.0,Exact,100%,Primary Hospital Affiliation,Physician,Chamakkala,Bethlehem,PA,,631.355.5619,Internal Medicine,St Lukes University Health Netw
+KNAPP MEDICAL CENTER,KNMC,KNAPP MEDICAL CENTER,1811278088.0,Exact,100%,Secondary Hospital Affiliation,Physician,Shakhatreh,Philadelphia,PA,,215.333.1776,Internal Medicine,St Lukes University Health Netw
+LONGVIEW REGIONAL MEDICAL CENTER,LVRG,LONGVIEW REGIONAL MEDICAL CENTER,1518944149.0,Exact,100%,Secondary Hospital Affiliation,Physician,Bruzzini,Voorhees Township,NJ,,856.782.2212,Neonatal-Perinatal Medicine,St Lukes University Health Netw
+MAURY REGIONAL MEDICAL CENTER,MAUR,MAURY REGIONAL MEDICAL CENTER,1205287760.0,Exact,100%,Primary Hospital Affiliation,Physician,Coman,Columbia,TN,,931.380.4072,Neurology,Novant Health
+MEDICAL CITY DALLAS,MCYD,MEDICAL CITY DALLAS,1972512325.0,Exact,100%,Primary Hospital Affiliation,Physician,Sule,Dallas,TX,,972.960.2950,Otolaryngology,Trinity Health ND
+METHODIST MANSFIELD MEDICAL CENTER,MEMA,METHODIST MANSFIELD MEDICAL CENTER,1104232925.0,Exact,100%,Secondary Hospital Affiliation,Physician,Khan,Neptune City,NJ,,732.988.8228,Critical Care (Intensivists),St Lukes University Health Netw
+MISSION REGIONAL MEDICAL CENTER,MIHO,MISSION REGIONAL MEDICAL CENTER,1558518209.0,Exact,100%,Primary Hospital Affiliation,Physician,Mangalpally,Frisco,TX,,945.222.4111,Cardiology - Cardiologist,Guthrie Clinic
+MIDLAND MEMORIAL HOSPITAL,MLMH,MIDLAND MEMORIAL HOSPITAL,1811315880.0,Exact,100%,Primary Hospital Affiliation,Physician,Gellan,Midland,TX,,432.221.4206,Hospitalist,St Lukes University Health Netw
+METHODIST DALLAS MEDICAL CENTER,MMCT,METHODIST DALLAS MEDICAL CENTER,1598109605.0,Exact,100%,Primary Hospital Affiliation,Physician,Nguyen,Dallas,TX,,214.947.8181,Neonatal-Perinatal Medicine,Childrens Nationl Hospital
+METHODIST MEDICAL CENTER OF OAK RIDGE,MMOR,METHODIST MEDICAL CENTER OF OAK RIDGE,1477908382.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Pereia Dietz,Washington,DC,,888.884.2327,Internal Medicine,Childrens Nationl Hospital
+MERCYONE DES MOINES MEDICAL CENTER,MRMR,MERCYONE DES MOINES MEDICAL CENTER,1841452919.0,Exact,100%,Secondary Hospital Affiliation,Physician,Jacobson,Des Moines,IA,,515.247.4240,Psychiatry,Guthrie Clinic
+ST DAVIDS NORTH AUSTIN MEDICAL CENTER,NAMR,ST DAVIDS NORTH AUSTIN MEDICAL CENTER,1669570255.0,Exact,100%,Secondary Hospital Affiliation,Physician,Aung,Columbia,MD,,410.740.2370,Neurology,Guthrie Clinic
+SOUTH TEXAS HEALTH SYSTEM EDINBURG,NNYM,SOUTH TEXAS HEALTH SYSTEM EDINBURG,1073714200.0,Exact,100%,Primary Hospital Affiliation,Physician,Anees,Burleson,TX,,817.293.9292,Gastroenterology,Altru
+TEXAS HEALTH PRESBYTERIAN HOSPITAL DENTON,PBHD,TEXAS HEALTH PRESBYTERIAN HOSPITAL DENTON,1104232925.0,Exact,100%,Primary Hospital Affiliation,Physician,Khan,Neptune City,NJ,,732.988.8228,Critical Care (Intensivists),St Lukes University Health Netw
+PETERSON REGIONAL MEDICAL CENTER,PEMC,PETERSON REGIONAL MEDICAL CENTER,1992246250.0,Exact,100%,Secondary Hospital Affiliation,Physician,Long,Dallas,TX,,972.449.0540,Infectious Disease,Novant Health
+ASCENSION PROVIDENCE,PHWT,ASCENSION PROVIDENCE,1730451295.0,Exact,100%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Davis,Bingham Farms,MI,,248.594.9501,Anesthesiology - Certified Registered Nurse Anesthetist,Guthrie Clinic
+ST DAVIDS ROUND ROCK MEDICAL CENTER,RDRK,ST DAVIDS ROUND ROCK MEDICAL CENTER,1487852729.0,Exact,100%,Secondary Hospital Affiliation,Physician,Mani,Marble Falls,TX,,830.798.2082,Cardiology - Cardiologist,St Lukes University Health Netw
+RESOLUTE BAPTIST HOSPITAL,RHNB,RESOLUTE BAPTIST HOSPITAL,1609838184.0,Exact,100%,Secondary Hospital Affiliation,Physician,Savitt,Minot,ND,,701.418.7500,Cardiology - Cardiac Surgery,Trinity Health ND
+METHODIST RICHARDSON MEDICAL CENTER,RMMC,METHODIST RICHARDSON MEDICAL CENTER,1609221639.0,Exact,100%,Primary Hospital Affiliation,Physician,Hashmi,Dallas,TX,,214.599.8624,Family Practice,Trinity Health ND
+ASCENSION SETON MEDICAL CENTER AUSTIN,SETM,ASCENSION SETON MEDICAL CENTER AUSTIN,1255630869.0,Exact,100%,Primary Hospital Affiliation,Certified Nurse Midwife,Aaberg,Manchester,CT,,888.607.0046,Nurse - Certified Nurse Midwife,Eastern Connecticut Health Netw
+ST DAVIDS SOUTH AUSTIN MEDICAL CENTER,SOAU,ST DAVIDS SOUTH AUSTIN MEDICAL CENTER,1902197353.0,Exact,100%,Secondary Hospital Affiliation,Physician,Pinnock,Austin,TX,,737.910.6700,Gastroenterology,Eastern Connecticut Health Netw
+MERCY HOSPITAL SOUTH,STAN,MERCY HOSPITAL SOUTH,1073178315.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Aqeel,Saint Louis,MO,,314.525.1000,Internal Medicine,Guthrie Clinic
+ST DAVIDS MEDICAL CENTER,STDA,ST DAVIDS MEDICAL CENTER,1487852729.0,Exact,100%,Primary Hospital Affiliation,Physician,Mani,Marble Falls,TX,,830.798.2082,Cardiology - Cardiologist,St Lukes University Health Netw
+SAINT LUKES HOSPITAL OF KANSAS CITY,STLH,SAINT LUKES HOSPITAL OF KANSAS CITY,1790870020.0,Exact,100%,Primary Hospital Affiliation,Physician,Abuerreish,Kansas City,MO,,816.531.1550,Infectious Disease,Sheet1
+TRISTAR SUMMIT MEDICAL CENTER,SUMC,TRISTAR SUMMIT MEDICAL CENTER,1447511290.0,Exact,100%,Primary Hospital Affiliation,Physician,Watson,Mount Juliet,TN,,615.874.9667,Surgery - General Surgery,Novant Health
+UNIVERSITY MEDICAL CENTER OF EL PASO,THOM,UNIVERSITY MEDICAL CENTER OF EL PASO,1942516521.0,Exact,100%,Secondary Hospital Affiliation,Physician,Kunam,El Paso,TX,,915.215.6000,Radiology - Diagnostic Radiology,Altru
+HCA HOUSTON HEALTHCARE TOMBALL,TOMB,HCA HOUSTON HEALTHCARE TOMBALL,1164739850.0,Exact,100%,Secondary Hospital Affiliation,Physician,Tahir,Tomball,TX,,281.737.1910,Family Practice,Novant Health
+LOYOLA UNIVERSITY MEDICAL CENTER,Z024,LOYOLA UNIVERSITY MEDICAL CENTER,1902067697.0,Exact,100%,Primary Hospital Affiliation,Physician,Reyna,Maywood,IL,,888.584.7888,Surgery - Surgical Oncology,Crozer Health
+RENOWN REGIONAL MEDICAL CENTER,WSHO,RENOWN REGIONAL MEDICAL CENTER,1114475837.0,Exact,100%,Primary Hospital Affiliation,Physician,Kaur,Reno,NV,,775.982.5000,Family Practice,St Lukes University Health Netw
+ALASKA REGIONAL HOSPITAL,ARGL,ALASKA REGIONAL HOSPITAL,1336300383.0,Exact,100%,Primary Hospital Affiliation,Physician,Lundebye,Anchorage,AK,,907.345.4343,Internal Medicine,Childrens Nationl Hospital
+MULTICARE AUBURN MEDICAL CENTER,ARMC,MULTICARE AUBURN MEDICAL CENTER,1801871876.0,Exact,100%,Secondary Hospital Affiliation,Physician,Skulski,Renton,WA,,253.661.4755,Radiology - Diagnostic Radiology,Altru
+BANNER GATEWAY MEDICAL CENTER,BGWC,BANNER GATEWAY MEDICAL CENTER,1922668938.0,Exact,100%,Secondary Hospital Affiliation,Physician,Fleming,Maricopa,AZ,,520.233.2500,Family Practice,Altru
+CALIFORNIA PACIFIC MEDICAL CENTER,CAPA,CALIFORNIA PACIFIC MEDICAL CENTER,1538694138.0,Exact,100%,Primary Hospital Affiliation,Physician,Malige,San Francisco,CA,,415.900.3000,Surgery - Orthopedic Surgery,St Lukes University Health Netw
+CENTRAL DUPAGE HOSPITAL,CDUP,CENTRAL DUPAGE HOSPITAL,1841308277.0,Exact,100%,Primary Hospital Affiliation,Physician,Keagle,Wilmington,NC,,910.452.8633,Family Practice,Novant Health
+CENTENNIAL HILLS HOSPITAL MEDICAL CENTER,CHPC,CENTENNIAL HILLS HOSPITAL MEDICAL CENTER,1538127568.0,Exact,100%,Primary Hospital Affiliation,Physician,Gabaeff,Las Vegas,NV,,702.759.8600,Radiology - Diagnostic Radiology,Novant Health
+CLARK MEMORIAL HOSPITAL,CLRK,CLARK MEMORIAL HOSPITAL,1316172562.0,Exact,100%,Primary Hospital Affiliation,Physician,Barber,Louisville,KY,,502.587.8000,Pulmonary Disease,Novant Health
+WEST CHESTER HOSPITAL,WCHH,WEST CHESTER HOSPITAL,1770964769.0,Exact,100%,Secondary Hospital Affiliation,Physician,Mckimm,Cincinnati,OH,,513.584.1000,Pediatric Medicine,Crozer Health
+CAMPBELL COUNTY MEMORIAL HOSPITAL,CPCM,CAMPBELL COUNTY MEMORIAL HOSPITAL,1083637086.0,Exact,100%,Primary Hospital Affiliation,Physician,Lewis,Fargo,ND,,701.417.2575,Emergency Medicine,Sheet1
+WESLEY MEDICAL CENTER,CWES,WESLEY MEDICAL CENTER,1376779827.0,Exact,100%,Secondary Hospital Affiliation,Physician,Eagleton,Grand Forks,ND,,701.780.5000,Anesthesiology - Anesthesiologist,Altru
+DUBLIN METHODIST HOSPITAL,DBMH,DUBLIN METHODIST HOSPITAL,1649513367.0,Exact,100%,Secondary Hospital Affiliation,Physician,Marcinek,Columbus,OH,,614.566.8883,Family Practice,Childrens Nationl Hospital
+DELNOR COMMUNITY HOSPITAL,DELC,DELNOR COMMUNITY HOSPITAL,1861467755.0,Exact,100%,Secondary Hospital Affiliation,Physician,Zak,Northbrook,IL,,312.952.0573,Neurology,St Lukes University Health Netw
+DESERT REGIONAL MEDICAL CENTER,DESR,DESERT REGIONAL MEDICAL CENTER,1174786594.0,Exact,100%,Primary Hospital Affiliation,Physician,Bencheqroun,Redding,CA,,530.244.5334,Critical Care (Intensivists),Guthrie Clinic
+DUPONT HOSPITAL,DPTH,DUPONT HOSPITAL,1881784593.0,Exact,100%,Primary Hospital Affiliation,Physician,Wilkerson,Wilmington,DE,,800.416.4441,Obstetrics/Gynecology,St Lukes University Health Netw
+EVERGREEN HEALTH,EHMC,EVERGREEN HEALTH,nan,Exact,100%,medical group,,,,,,,,Direct EHR 1A
+EASTERN IDAHO REGIONAL MEDICAL CENTER,EIRM,EASTERN IDAHO REGIONAL MEDICAL CENTER,1558452565.0,Exact,100%,Primary Hospital Affiliation,Physician,Ghani,Lincoln,NE,,402.466.8259,Nephrology,Sheet1
+ELKHART GENERAL HOSPITAL,ELKH,ELKHART GENERAL HOSPITAL,1093387607.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Zahid,Elkhart,IN,,574.523.3233,Family Practice,Sheet1
+FIRELANDS REGIONAL MEDICAL CENTER,FDMC,FIRELANDS REGIONAL MEDICAL CENTER,1922272228.0,Exact,100%,Secondary Hospital Affiliation,Physician,Kirnus,Norwalk,OH,,419.660.4707,Cardiology - Cardiologist,Altru
+ASCENSION GENESYS HOSPITAL,GNSY,ASCENSION GENESYS HOSPITAL,1164610960.0,Exact,100%,Primary Hospital Affiliation,Physician,Marquart,Grand Blanc,MI,,810.953.0500,Surgery - Orthopedic Surgery,Altru
+MULTICARE GOOD SAMARITAN HOSPITAL,GSWA,MULTICARE GOOD SAMARITAN HOSPITAL,1619967908.0,Exact,100%,Secondary Hospital Affiliation,Physician,Muetterties,Chester,PA,,866.525.9729,Radiology - Diagnostic Radiology,Crozer Health
+HENDERSON HOSPITAL,HENS,HENDERSON HOSPITAL,1346623451.0,Exact,100%,Primary Hospital Affiliation,Physician,Kaur,Bethlehem,PA,,484.542.4903,Emergency Medicine,St Lukes University Health Netw
+HONORHEALTH SONORAN CROSSING MEDICAL CENTER,HHSN,HONORHEALTH SONORAN CROSSING MEDICAL CENTER,1386964674.0,Exact,100%,Secondary Hospital Affiliation,Physician,Charles,Winston Salem,NC,,336.718.8383,Hospitalist,Novant Health
+ST ANNE HOSPITAL,HIGH,ST ANNE HOSPITAL,1861765083.0,Exact,100%,Secondary Hospital Affiliation,Physician,Kim,Toledo,OH,,567.368.1490,Surgery - General Surgery,Novant Health
+HOLY FAMILY HOSPITAL,HLYF,HOLY FAMILY HOSPITAL,1447269006.0,Exact,100%,Secondary Hospital Affiliation,Physician,Weerasinghe,Patchogue,NY,,631.687.4131,Hospitalist,Guthrie Clinic
+SAINT JOSEPH HOSPITAL,JOSE,SAINT JOSEPH HOSPITAL,1437458890.0,Exact,100%,Primary Hospital Affiliation,Physician,Gulabani,Highlands Ranch,CO,,303.805.7477,Radiology - Interventional Radiology,Novant Health
+JORDAN VALLEY MEDICAL CENTER,JVMC,JORDAN VALLEY MEDICAL CENTER,1114181930.0,Exact,100%,Primary Hospital Affiliation,Physician,Guilfoyle,Lehi,UT,,385.345.3000,Surgery - General Surgery,St Lukes University Health Netw
+NORTHWESTERN MEDICINE KISHWAUKEE HOSPITAL,KISH,NORTHWESTERN MEDICINE KISHWAUKEE HOSPITAL,1023470754.0,Exact,100%,Primary Hospital Affiliation,Podiatrist,Nordquist,Yorkville,IL,,630.352.3700,Podiatry,Trinity Health ND
+LAKEVIEW HOSPITAL,LAHO,LAKEVIEW HOSPITAL,1871571083.0,Exact,100%,Primary Hospital Affiliation,Physician,Barkmeier,Saint Paul,MN,,651.632.5700,Radiology - Diagnostic Radiology,Altru
+LAKE FOREST HOSPITAL,LKFH,LAKE FOREST HOSPITAL,1326682816.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Hirschel,Lake Forest,IL,,847.535.7058,Physician Assistant,St Lukes University Health Netw
+LONE PEAK HOSPITAL,LOPH,LONE PEAK HOSPITAL,1114181930.0,Exact,100%,Secondary Hospital Affiliation,Physician,Guilfoyle,Lehi,UT,,385.345.3000,Surgery - General Surgery,St Lukes University Health Netw
+LUTHERAN HOSPITAL,LUHO,LUTHERAN HOSPITAL,1508831975.0,Exact,100%,Primary Hospital Affiliation,Physician,Paparo,Fort Wayne,IN,,260.266.7856,Critical Care (Intensivists),Sheet1
+MEMORIAL HOSPITAL,MEMO,MEMORIAL HOSPITAL,1518438530.0,Exact,100%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Abbate,Manchester,CT,,860.646.1222,Anesthesiology - Certified Registered Nurse Anesthetist,Eastern Connecticut Health Netw
+MERCY HEALTH CENTER,MHCR,MERCY HEALTH CENTER,1215238423.0,Exact,100%,Secondary Hospital Affiliation,Physician Assistant,Smith,Corning,NY,,607.973.8000,Physician Assistant,Guthrie Clinic
+MEMORIAL MEDICAL CENTER,MMMC,MEMORIAL MEDICAL CENTER,1417489477.0,Exact,100%,Primary Hospital Affiliation,Physician,Rigatti,Worcester,MA,,508.421.1400,Emergency Medicine,Eastern Connecticut Health Netw
+MENORAH MEDICAL CENTER,MNOR,MENORAH MEDICAL CENTER,1184913923.0,Exact,100%,Primary Hospital Affiliation,Physician,Bozarth,Overland Park,KS,,913.253.3070,Internal Medicine,Altru
+MERCY REGIONAL HEALTH CENTER,MRHC,MERCY REGIONAL HEALTH CENTER,1235176314.0,Exact,100%,Primary Hospital Affiliation,Chiropractor,Pasula,Deerfield Beach,FL,,561.483.3900,Chiropractic,Altru
+MYMICHIGAN MEDICAL CENTER MIDLAND,MYMI,MYMICHIGAN MEDICAL CENTER MIDLAND,1134304785.0,Exact,100%,Secondary Hospital Affiliation,Physician,Delancey,Alma,MI,,989.837.9060,Radiology - Diagnostic Radiology,Eastern Connecticut Health Netw
+PROVIDENCE SACRED HEART MEDICAL CENTER,N805,PROVIDENCE SACRED HEART MEDICAL CENTER,1700230216.0,Exact,100%,Primary Hospital Affiliation,Hospitalist,Szwec,Spokane,WA,,509.474.3260,Internal Medicine,St Lukes University Health Netw
+SCRIPPS MERCY HOSPITAL,NNKD,SCRIPPS MERCY HOSPITAL,1912036922.0,Exact,100%,Primary Hospital Affiliation,Physician,Strait,Winston Salem,NC,,336.718.8383,Hospitalist,Novant Health
+SUTTER SANTA ROSA REGIONAL HOSPITAL,NNSD,SUTTER SANTA ROSA REGIONAL HOSPITAL,1275613796.0,Exact,100%,Secondary Hospital Affiliation,Physician,Stafford,San Diego,CA,,619.532.5990,Critical Care (Intensivists),Novant Health
+NORTH COLORADO MEDICAL CENTER,NOCM,NORTH COLORADO MEDICAL CENTER,1629295043.0,Exact,100%,Primary Hospital Affiliation,Physician,Deneault,Greeley,CO,,970.810.4475,Gastroenterology,Sheet1
+NORTHWEST HOSPITAL,NWHP,NORTHWEST HOSPITAL,1851577837.0,Exact,100%,Primary Hospital Affiliation,Physical Therapist,Campbell,Carmel,IN,,317.819.6600,Therapy - Physical Therapist,St Lukes University Health Netw
+MIAMI VALLEY HOSPITAL,OMIA,MIAMI VALLEY HOSPITAL,1528350592.0,Exact,100%,Primary Hospital Affiliation,Physician,Fyyaz,Canton,OH,,330.493.4443,Hospitalist,Childrens Nationl Hospital
+OVERLAKE HOSPITAL MEDICAL CENTER,OVER,OVERLAKE HOSPITAL MEDICAL CENTER,1396164208.0,Exact,100%,Primary Hospital Affiliation,Physician,Lee,Bellevue,WA,,425.688.5289,Radiology - Radiation Oncology,Trinity Health ND
+PROVIDENCE HOLY CROSS MEDICAL CENTER,PHCM,PROVIDENCE HOLY CROSS MEDICAL CENTER,1700049574.0,Exact,100%,Primary Hospital Affiliation,Physician,Kvamme,Saginaw,MI,,989.583.6817,Emergency Medicine,Altru
+LITTLETON ADVENTIST HOSPITAL,PLIT,LITTLETON ADVENTIST HOSPITAL,1144785460.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Parker,Golden,CO,,303.233.1223,Physician Assistant,Novant Health
+VALLEY VIEW HOSPITAL,VVHO,VALLEY VIEW HOSPITAL,nan,Exact,100%,medical group,,,,,,,,Direct EHR 1A
+PORTNEUF MEDICAL CENTER,POCA,PORTNEUF MEDICAL CENTER,1134454879.0,Exact,100%,Primary Hospital Affiliation,Physician,Norvell,Englewood,CO,,303.788.6911,Hospitalist,Trinity Health ND
+HCA HEALTHONE PRESBYTERIAN ST LUKES,PRSL,HCA HEALTHONE PRESBYTERIAN ST LUKES,1568817989.0,Exact,100%,Primary Hospital Affiliation,Physician,Velez,Denver,CO,,303.839.7440,Pediatric Medicine,Childrens Nationl Hospital
+PROVIDENCE SAINT JOHNS HEALTH CENTER,PSJH,PROVIDENCE SAINT JOHNS HEALTH CENTER,1104350545.0,Exact,100%,Primary Hospital Affiliation,Physician,Keller,Santa Monica,CA,,310.829.8781,Surgery - General Surgery,Guthrie Clinic
+PROVIDENCE ST VINCENT MEDICAL CENTER,PSVM,PROVIDENCE ST VINCENT MEDICAL CENTER,1104991363.0,Exact,100%,Primary Hospital Affiliation,Physician,Yanney,West Linn,OR,,503.722.4377,Surgery - Maxillofacial Surgery,Novant Health
+PROVIDENCE ALASKA MEDICAL CENTER,PVHS,PROVIDENCE ALASKA MEDICAL CENTER,1336300383.0,Exact,100%,Secondary Hospital Affiliation,Physician,Lundebye,Anchorage,AK,,907.345.4343,Internal Medicine,Childrens Nationl Hospital
+POUDRE VALLEY HOSPITAL,PVLH,POUDRE VALLEY HOSPITAL,1578622320.0,Exact,100%,Primary Hospital Affiliation,Physician,Grafals,Avon,CO,,970.926.6340,Internal Medicine,Childrens Nationl Hospital
+HCA HEALTHONE ROSE,ROSE,HCA HEALTHONE ROSE,1720153893.0,Exact,100%,Primary Hospital Affiliation,Physician,Levenson,Greenwood Village,CO,,303.221.5400,Family Practice,Trinity Health ND
+OHIOHEALTH RIVERSIDE METHODIST HOSPITAL,RSMH,OHIOHEALTH RIVERSIDE METHODIST HOSPITAL,1760801112.0,Exact,100%,Secondary Hospital Affiliation,Physician,Koss,Fort Myers,FL,,239.208.2212,Neurology,Sheet1
+COVENANT MEDICAL CENTER,SAGI,COVENANT MEDICAL CENTER,1013174432.0,Exact,100%,Secondary Hospital Affiliation,Physician,Overdorf,Bellingham,WA,,360.739.2200,Pulmonary Disease,Sheet1
+SALEM HOSPITAL,SALE,SALEM HOSPITAL,1104991363.0,Exact,100%,Secondary Hospital Affiliation,Physician,Yanney,West Linn,OR,,503.722.4377,Surgery - Maxillofacial Surgery,Novant Health
+ST ALEXIUS MEDICAL CENTER,SALS,ST ALEXIUS MEDICAL CENTER,1235176314.0,Exact,100%,Secondary Hospital Affiliation,Chiropractor,Pasula,Deerfield Beach,FL,,561.483.3900,Chiropractic,Altru
+SAINT ANTHONY HOSPITAL,SANH,SAINT ANTHONY HOSPITAL,1972742856.0,Exact,100%,Primary Hospital Affiliation,Physician,Barrios,Marshall,MN,,507.476.4800,Pediatric Medicine,Guthrie Clinic
+ST FRANCIS HEALTH CENTER,SFTP,ST FRANCIS HEALTH CENTER,1821187428.0,Exact,100%,Primary Hospital Affiliation,Physician Assistant,Feil,Topeka,KS,,785.233.9643,Physician Assistant,St Lukes University Health Netw
+ST FRANCIS HOSPITAL,SFWA,ST FRANCIS HOSPITAL,1750592887.0,Exact,100%,Primary Hospital Affiliation,Physician,Ambati,Federal Way,WA,,253.426.6341,Hospitalist,Childrens Nationl Hospital
+ST LUKES MAGIC VALLEY MEDICAL CENTER,SLMV,ST LUKES MAGIC VALLEY MEDICAL CENTER,1568149060.0,Exact,100%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Parizek,Twin Falls,ID,,208.814.2400,Anesthesiology - Certified Registered Nurse Anesthetist,Trinity Health ND
+ST LUKES NAMPA MEDICAL CENTER,SLNM,ST LUKES NAMPA MEDICAL CENTER,1588005789.0,Exact,100%,Secondary Hospital Affiliation,Physician,Waage,Fruitland,ID,,208.452.8700,Surgery - General Surgery,Altru
+ST LUKES REGIONAL MEDICAL CENTER,SLRE,ST LUKES REGIONAL MEDICAL CENTER,1184919490.0,Exact,100%,Secondary Hospital Affiliation,Physician,Khurana,Onawa,IA,,712.423.9363,Radiology - Interventional Radiology,Sheet1
+VALLEY MEDICAL CENTER,VMCT,VALLEY MEDICAL CENTER,1851615405.0,Exact,100%,Primary Hospital Affiliation,Physician,Yanagi,Dunn,NC,,910.892.1000,Radiology - Diagnostic Radiology,Eastern Connecticut Health Netw
+SCRIPPS MEMORIAL HOSPITAL ENCINITAS,SMHE,SCRIPPS MEMORIAL HOSPITAL ENCINITAS,1194856286.0,Exact,100%,Primary Hospital Affiliation,Physician,Magana,Dallas,TX,,972.449.0540,Critical Care (Intensivists),Novant Health
+SPRING VALLEY HOSPITAL,SPVL,SPRING VALLEY HOSPITAL,1538127568.0,Exact,100%,Secondary Hospital Affiliation,Physician,Gabaeff,Las Vegas,NV,,702.759.8600,Radiology - Diagnostic Radiology,Novant Health
+HCA HEALTHONE SKY RIDGE,SRMC,HCA HEALTHONE SKY RIDGE,1396130316.0,Exact,100%,Primary Hospital Affiliation,Podiatrist,Mina,Aurora,CO,,720.848.1900,Podiatry,St Lukes University Health Netw
+ST MARKS HOSPITAL,STMK,ST MARKS HOSPITAL,1578667226.0,Exact,100%,Secondary Hospital Affiliation,Physician,Howe,Salt Lake City,UT,,801.533.2002,Surgery - Foot and Ankle,Novant Health
+SUMMERLIN HOSPITAL MEDICAL CENTER,SUMM,SUMMERLIN HOSPITAL MEDICAL CENTER,1154307684.0,Exact,100%,Secondary Hospital Affiliation,Physician,George,Richlands,NC,,910.324.7328,Cardiology - Cardiologist,Novant Health
+HCA HEALTHONE SWEDISH,SWED,HCA HEALTHONE SWEDISH,1841639622.0,Exact,100%,Primary Hospital Affiliation,Physician,Montuno,Laramie,WY,,307.742.2141,Hospitalist,Novant Health
+UCHEALTH GREELEY HOSPITAL,UCHG,UCHEALTH GREELEY HOSPITAL,1245498054.0,Exact,100%,Primary Hospital Affiliation,Physician,Rochester,Kernersville,NC,,336.765.5470,Obstetrics/Gynecology,Novant Health
+UCI MEDICAL CENTER,UCIM,UCI MEDICAL CENTER,1275557423.0,Exact,100%,Primary Hospital Affiliation,Physician,Vilain,Orange,CA,,714.532.8649,Other,Childrens Nationl Hospital
+UNIVERSITY OF CINCINNATI MEDICAL CENTER,UOCM,UNIVERSITY OF CINCINNATI MEDICAL CENTER,1215331574.0,Exact,100%,Primary Hospital Affiliation,Nurse Practitioner,Feczko,Cincinnati,OH,,513.961.0600,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+UW MEDICAL CENTER,UWAM,UW MEDICAL CENTER,1003043415.0,Exact,100%,Primary Hospital Affiliation,Physician,Panch,Seattle,WA,,855.557.0555,Hematology,Childrens Nationl Hospital
+ASCENSION NE WISCONSIN ST ELIZABETH CAMPUS,STEL,Ascension NE Wisconsin - St Elizabeth Campus,1619081817.0,Fuzzy,100%,Primary Hospital Affiliation,Physician,Mcdonald,Columbia,MD,,410.740.7557,Neonatal-Perinatal Medicine,St Lukes University Health Netw
+TACOMA GENERAL HOSPITAL MULTICARE,TACO,MultiCare Tacoma General Hospital,1316261670.0,Fuzzy,100%,Secondary Hospital Affiliation,Physician,Shrestha,Tacoma,WA,,253.444.3320,Internal Medicine,St Lukes University Health Netw
+CAPITAL HEALTH MEDICAL CENTER HOPEWELL,CHHW,Capital Health Medical Center - Hopewell,1326367988.0,Fuzzy,100%,Primary Hospital Affiliation,Physician,Bush,Lawrence Township,NJ,,609.815.7270,Family Practice,St Lukes University Health Netw
+MAT SU REGIONAL MEDICAL CENTER,MSUR,Mat-Su Regional Medical Center,1972715282.0,Fuzzy,100%,Primary Hospital Affiliation,Physician,Kalagher,Irving,TX,,469.282.2000,Radiology - Diagnostic Radiology,Sheet1
+NORTHSIDE FORSYTH HOSPITAL,SYTH,Northside Hospital Forsyth,1144435124.0,Fuzzy,100%,Secondary Hospital Affiliation,Physician,Ahmed,Atlanta,GA,,404.851.6323,Radiology - Diagnostic Radiology,St Lukes University Health Netw
+TANNER MEDICAL CENTER CARROLLTON,TANN,Tanner Medical Center - Carrollton,1972168367.0,Fuzzy,100%,Primary Hospital Affiliation,Physician,Khanal,Rochester,NY,,585.922.5027,Hospitalist,Guthrie Clinic
+METHODIST STONE OAK HOSPITAL,MSOH,Methodist Hospital Stone Oak,1760068530.0,Fuzzy,100%,Secondary Hospital Affiliation,Physician,Hennessey,San Antonio,TX,,210.233.6363,Emergency Medicine,Guthrie Clinic
+SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER,SHMC,Southern Hills Hospital & Medical Center,1275086498.0,Fuzzy,95%,Secondary Hospital Affiliation,Physician,Kim,Camp Hill,PA,,,Surgery - Vascular Surgery,St Lukes University Health Netw
+JOHNSON CITY MEDICAL CENTER TN,JCTN,Johnson City Medical Center,1962651828.0,Fuzzy,95%,Primary Hospital Affiliation,Physician,Wig,Knoxville,TN,,865.595.4100,Radiology - Diagnostic Radiology,Novant Health
+ST JOSEPH MEDICAL CENTER WA,SJWA,St Joseph Medical Center,1962472993.0,Fuzzy,94%,Primary Hospital Affiliation,Physician,Allen,Reading,PA,,,Surgery - Neurosurgery,St Lukes University Health Netw
+SUNRISE HOSPITAL AND MEDICAL CENTER,SUNR,Sunrise Hospital & Medical Center,1477177277.0,Fuzzy,94%,Primary Hospital Affiliation,Hospitalist,Singh,Sayre,PA,,570.887.4559,Internal Medicine,Guthrie Clinic
+MOUNTAIN VIEW HOSPITAL NV,MOVI,Mountain View Hospital,1801171129.0,Fuzzy,94%,Primary Hospital Affiliation,Physician,Maxwell,New Orleans,LA,,504.842.7631,Neonatal-Perinatal Medicine,Crozer Health
+GARFIELD MEDICAL CENTER,GRFM,Fairfield Medical Center,1235660028.0,Fuzzy,94%,Primary Hospital Affiliation,Physician,Mehta,Charlotte,NC,,704.377.2424,Emergency Medicine,Novant Health
+MOUNTAIN VIEW HOSPITAL UT,MVWH,Mountain View Hospital,1801171129.0,Fuzzy,94%,Primary Hospital Affiliation,Physician,Maxwell,New Orleans,LA,,504.842.7631,Neonatal-Perinatal Medicine,Crozer Health
+NORTHCREST MEDICAL CENTER,NOME,Northwest Medical Center,1861443376.0,Fuzzy,94%,Primary Hospital Affiliation,Non-physician practitioner,Turner,Voorhees Township,NJ,,856.782.2212,Nurse - Nurse Practitioner,St Lukes University Health Netw
+DELL CHILDRENS MEDICAL CENTER,DCMC,Childrens Medical Center Dallas,1558788513.0,Fuzzy,93%,Primary Hospital Affiliation,Physician,Desai,Dallas,TX,,214.648.3903,Neonatal-Perinatal Medicine,St Lukes University Health Netw
+ST MICHAEL MEDICAL CENTER,HARI,Saint Michaels Medical Center,1891136867.0,Fuzzy,93%,Primary Hospital Affiliation,Physician,Paredes Saenz,Marlton,NJ,,786.228.9640,Psychiatry,St Lukes University Health Netw
+ST JOSEPHS HOSPITAL FL,SJOP,St Josephs Hospital,1871665208.0,Fuzzy,93%,Primary Hospital Affiliation,Physician,Anderson,Dickinson,ND,,701.456.6003,Internal Medicine,Sheet1
+ST BERNARDINE MEDICAL CENTER,SBMC,St Bernards Medical Center,1366691552.0,Fuzzy,93%,Secondary Hospital Affiliation,Physician,Kumar,Prescott Valley,AZ,,928.759.5890,Cardiology - Cardiologist,Guthrie Clinic
+ST JOHNS REGIONAL MEDICAL CENTER,SJRC,St Joseph Regional Medical Center,1215944129.0,Fuzzy,92%,Secondary Hospital Affiliation,Physician,Hawley-Molloy,Fort Sam Houston,TX,,210.916.3469,Infectious Disease,Sheet1
+NEXUS CHILDRENS HOSPITAL,HECH,Texas Childrens Hospital,1558562173.0,Fuzzy,92%,Primary Hospital Affiliation,Physician,Risen,Houston,TX,,832.822.3400,Pediatric Medicine,Childrens Nationl Hospital
+WASHINGTON HOSPITAL PA,N104,Mary Washington Hospital,1932460698.0,Fuzzy,91%,Primary Hospital Affiliation,Physician,Asefa,Washington,DC,,888.884.2327,Neonatal-Perinatal Medicine,Childrens Nationl Hospital
+SCOTT AND WHITE MEDICAL CENTER TEMPLE,SAWT,Baylor Scott & White Medical Center - Temple,1437813201.0,Fuzzy,91%,Secondary Hospital Affiliation,Physician Assistant,Kloap,Waco,TX,,254.202.4000,Physician Assistant,St Lukes University Health Netw
+LAKELAND REGIONAL MEDICAL CENTER,LRMC,Lakeland Regional Health Medical Center,1174864144.0,Fuzzy,90%,Primary Hospital Affiliation,Physician,Davis,Lakeland,FL,,863.687.1259,Surgery - General Surgery,St Lukes University Health Netw
+SWEDISH MEDICAL CENTER FIRST HILL,SMED,Swedish Medical Center - First Hill Campus,1578908141.0,Fuzzy,90%,Primary Hospital Affiliation,Physician,Hobson,Sayre,PA,,570.888.5858,Emergency Medicine,Guthrie Clinic
+SOIN MEDICAL CENTER,INDU,Wilson Medical Center,1942289376.0,Fuzzy,90%,Secondary Hospital Affiliation,Physician Assistant,Callahan,Endicott,NY,,607.754.2323,Physician Assistant,Guthrie Clinic
+SWEDISH MEDICAL CENTER ISSAQUAH,SMCI,Swedish Medical Center - Issaquah Campus,1578908141.0,Fuzzy,90%,Secondary Hospital Affiliation,Physician,Hobson,Sayre,PA,,570.888.5858,Emergency Medicine,Guthrie Clinic
+MCALLEN MEDICAL CENTER,N305,Colleton Medical Center,1912974023.0,Fuzzy,89%,Primary Hospital Affiliation,Physician,Arthurs,Lafayette,CO,,303.673.1390,Surgery - Vascular Surgery,Novant Health
+ODESSA REGIONAL MEDICAL CENTER,ODES,Rapides Regional Medical Center,1982845897.0,Fuzzy,89%,Primary Hospital Affiliation,Physician,Bolden-Watkins,Syracuse,NY,,315.448.5550,Obstetrics/Gynecology,Guthrie Clinic
+OGDEN REGIONAL MEDICAL CENTER,OGDN,OCH Regional Medical Center,1972671626.0,Fuzzy,89%,Primary Hospital Affiliation,Physician,Huxford,Green Bay,WI,,920.431.8431,Pulmonary Disease,Altru
+TEXAS HLTH ARLINGTON MEMORIAL HOSPITAL,THAM,Texas Health Arlington Memorial,1154589950.0,Fuzzy,89%,Secondary Hospital Affiliation,Physician,Martinez Grullon,Fort Worth,TX,,682.200.8580,Surgery - Plastic and Reconstructive Surgery,St Lukes University Health Netw
+MEMORIAL HOSPITAL MIRAMAR,MHOM,Mimbres Memorial Hospital,1255317368.0,Fuzzy,88%,Secondary Hospital Affiliation,Physician,Hochhauser,Silver City,NM,,575.538.4000,Emergency Medicine,St Lukes University Health Netw
+BAPTIST MEDICAL CENTER SOUTH,NNUX,Baptist Medical Center,1740329739.0,Fuzzy,88%,Primary Hospital Affiliation,Physician,Ahamed,Jacksonville,FL,,904.861.3050,Hospitalist,Eastern Connecticut Health Netw
+SOUTHVIEW MEDICAL CENTER,SOVI,Southwest Medical Center,1205006897.0,Fuzzy,88%,Secondary Hospital Affiliation,Physician,Hoffman,Williston,ND,,701.234.8860,Dermatology,Trinity Health ND
+MEMORIAL UNIVERSITY MEDICAL CENTER,MHUV,United Memorial Medical Center,1669636460.0,Fuzzy,88%,Primary Hospital Affiliation,Physician Assistant,Wiewiorski,Niagara Falls,NY,,716.257.1254,Physician Assistant,Novant Health
+UNIVERSITY MEDICAL CENTER TX,UNMC,Ocean University Medical Center,1205880978.0,Fuzzy,88%,Secondary Hospital Affiliation,Physician,Aversa,Phillipsburg,NJ,,908.454.9902,Internal Medicine,St Lukes University Health Netw
+EXEMPLA GOOD SAMARITAN MEDICAL CENTER,EGSM,Good Samaritan Medical Center,1750304937.0,Fuzzy,88%,Primary Hospital Affiliation,Physician Assistant,Stolfi,Manchester,CT,,860.647.4738,Physician Assistant,Eastern Connecticut Health Netw
+YUMA REGIONAL MEDICAL CENTER,YUMA,Titus Regional Medical Center,1700824984.0,Fuzzy,88%,Secondary Hospital Affiliation,Physician,Erickstad,Bismarck,ND,,701.712.4500,Internal Medicine,Sheet1
+DAYTON CHILDRENS MEDICAL CENTER,CMED,Childrens Medical Center Dallas,1558788513.0,Fuzzy,87%,Primary Hospital Affiliation,Physician,Desai,Dallas,TX,,214.648.3903,Neonatal-Perinatal Medicine,St Lukes University Health Netw
+MEMORIAL HOSPITAL NORTH,MMHN,Northwestern Memorial Hospital,1245932466.0,Fuzzy,87%,Primary Hospital Affiliation,Physician,Suk-Ouichai,Sayre,PA,,570.888.5858,Urology,Guthrie Clinic
+RUST MEDICAL CENTER,RUST,Unity Medical Center,1265006878.0,Fuzzy,87%,Primary Hospital Affiliation,Physician,Borowski,Scranton,PA,,800.275.6401,Endocrinology,St Lukes University Health Netw
+GREER MEMORIAL HOSPITAL,GRER,Grant Memorial Hospital,1205880978.0,Fuzzy,87%,Primary Hospital Affiliation,Physician,Frankel,Brick,NJ,,732.840.3380,Emergency Medicine,St Lukes University Health Netw
+MOUNTAIN VIEW REGIONAL MEDICAL CENTER,MTVR,Rocky Mountain Regional VA Medical Center,1003137407.0,Fuzzy,87%,Primary Hospital Affiliation,Physician,Henderson,Greensboro,NC,,336.938.0800,Cardiology - Cardiologist,Novant Health
+NATIONWIDE CHILDRENS HOSPITAL COLUMBUS,CHOC,Nationwide Childrens Hospital,1073030391.0,Fuzzy,87%,Primary Hospital Affiliation,Nurse Practitioner,Dev,Washington,DC,,888.884.2327,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+VENTURA COUNTY MEDICAL CENTER,VENT,Mountrail County Medical Center,1447423538.0,Fuzzy,87%,Primary Hospital Affiliation,Nurse Practitioner,Braaflat,Stanley,ND,,701.628.2505,Nurse - Nurse Practitioner,Trinity Health ND
+VIERA HOSPITAL,VIEH,River Hospital,1235440090.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Jacob,Syracuse,NY,,315.464.1500,Urology,Guthrie Clinic
+SPARTANBURG REGIONAL MEDICAL CENTER,SPRT,Shasta Regional Medical Center,1164503538.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Pusca,Redding,CA,,530.242.6122,Cardiology - Cardiac Surgery,Trinity Health ND
+ST JOSEPHS HOSPITAL NORTH,SJHN,St Joseph Hospital of NH,1518150168.0,Fuzzy,86%,Secondary Hospital Affiliation,Physician,Stone,Manchester,NH,,603.627.1887,Surgery - Orthopedic Surgery,Eastern Connecticut Health Netw
+METHODIST SOUTH HOSPITAL,MHSH,Methodist Hospital,1760068530.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Madhavani,Fort Worth,TX,,817.433.5977,Family Practice,Eastern Connecticut Health Netw
+SPRINGFIELD REGIONAL MEDICAL CENTER,SPGC,Self Regional Medical Center,1497286546.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Toston,Greenwood,SC,,864.725.4111,Hospitalist,Altru
+HENRY MAYO NEWHALL MEMORIAL HOSPITAL,HMMH,Henry Mayo Newhall Hospital,1588004535.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Gu,Duluth,MN,,218.786.8364,Radiology - Diagnostic Radiology,Altru
+VALLEY REGIONAL MEDICAL CENTER,VLYR,Self Regional Medical Center,1497286546.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Toston,Greenwood,SC,,864.725.4111,Hospitalist,Altru
+ST JOSEPHS HOSPITAL SOUTH,STJS,St Josephs Hospital,1871665208.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Anderson,Dickinson,ND,,701.456.6003,Internal Medicine,Sheet1
+ASCENSION SETON HAYS,SMCH,ASCENSION SETON,nan,Fuzzy,86%,medical group,,,,,,,,Direct EHR 1A
+MEMORIAL HOSPITAL OF JACKSONVILLE,MJAX,Jackson Memorial Hospital,1356879829.0,Fuzzy,86%,Primary Hospital Affiliation,Physician,Orta,Miami,FL,,305.585.6910,Emergency Medicine,St Lukes University Health Netw
+INTEGRIS BAPTIST MEDICAL CENTER,IBMC,Baptist Medical Center East,1588654685.0,Fuzzy,86%,Primary Hospital Affiliation,Hospitalist,Lee,Knoxville,TN,,865.347.6025,Internal Medicine,Guthrie Clinic
+LECONTE MEDICAL CENTER,LECO,Fremont Medical Center,1750592887.0,Fuzzy,86%,Secondary Hospital Affiliation,Physician,Ambati,Federal Way,WA,,253.426.6341,Hospitalist,Childrens Nationl Hospital
+ATRIUM MEDICAL CENTER,ATMC,MEDICAL CARE CENTER,nan,Fuzzy,85%,medical group,,,,,,,,Direct EHR 1A
+HUNTINGTON MEMORIAL HOSPITAL,HMEM,Johnston Memorial Hospital,1417930769.0,Fuzzy,85%,Secondary Hospital Affiliation,Physician,Unsell,USAF Academy,CO,,719.524.2273,Radiology - Diagnostic Radiology,Novant Health
+ORANGE COAST MEMORIAL MEDICAL CENTER,OCMC,Torrance Memorial Medical Center,1043373087.0,Fuzzy,85%,Primary Hospital Affiliation,Physician,Stacy,Torrance,CA,,310.325.9110,Emergency Medicine,Novant Health
+FRENCH HOSPITAL,FREN,Greenwich Hospital,1689996209.0,Fuzzy,85%,Primary Hospital Affiliation,Physician,Fitzpatrick,Gloversville,NY,,518.773.5520,Radiology - Diagnostic Radiology,Guthrie Clinic
+ST MARYS HOSPITAL ATHENS,SMAT,ASCENSION ST. MARY'S HOSPITAL,nan,Fuzzy,85%,medical group,,,,,,,,Direct EHR 1A
+ST LUKES MERIDIAN MEDICAL CENTER,SLMM,St Lukes Nampa Medical Center,1588005789.0,Fuzzy,85%,Secondary Hospital Affiliation,Physician,Waage,Fruitland,ID,,208.452.8700,Surgery - General Surgery,Altru
+NATIONWIDE CHILDRENS HOSPITAL MCSA NICU,MCNW,Nationwide Childrens Hospital,1073030391.0,Fuzzy,85%,Primary Hospital Affiliation,Nurse Practitioner,Dev,Washington,DC,,888.884.2327,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+CEDAR PARK REGIONAL MEDICAL CENTER,CPRM,Parkview Regional Medical Center,1689009193.0,Fuzzy,85%,Primary Hospital Affiliation,Nurse Practitioner,Prosniak,Fort Wayne,IN,,260.425.5870,Nurse - Nurse Practitioner,St Lukes University Health Netw
+METHODIST CHILDRENS HOSPITAL,MHLT,St Louis Childrens Hospital,1750306056.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Saito,Washington,DC,,888.884.2327,Surgery - Pediatric Surgery,Childrens Nationl Hospital
+MULTICARE VALLEY HOSPITAL,VHMC,Utah Valley Hospital,1255835393.0,Fuzzy,84%,Primary Hospital Affiliation,Hospitalist,Disesa,Provo,UT,,801.357.8310,Internal Medicine,Eastern Connecticut Health Netw
+INTEGRIS SOUTHWEST MEDICAL CENTER,ISMC,Southwest Medical Center,1205006897.0,Fuzzy,84%,Secondary Hospital Affiliation,Physician,Hoffman,Williston,ND,,701.234.8860,Dermatology,Trinity Health ND
+NATIONWIDE CHILDRENS HOSPITAL AT DMH SCN,DMHN,Nationwide Childrens Hospital,1073030391.0,Fuzzy,84%,Primary Hospital Affiliation,Nurse Practitioner,Dev,Washington,DC,,888.884.2327,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+DEL SOL MEDICAL CENTER,CMCE,Delray Medical Center,1265405823.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Kleinman,Chester,PA,,610.876.2400,Cardiology - Cardiac Electrophysiology,Crozer Health
+GOOD SAMARITAN HOSPITAL SAN JOSE,COGS,WellSpan Good Samaritan Hospital,1659453454.0,Fuzzy,84%,Primary Hospital Affiliation,Physician Assistant,Domnine,Sewickley,PA,,412.741.5670,Physician Assistant,St Lukes University Health Netw
+ST JOSEPHS WOMENS HOSPITAL,SJWH,St Josephs Hospital,1871665208.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Anderson,Dickinson,ND,,701.456.6003,Internal Medicine,Sheet1
+ST LUKES BAPTIST HOSPITAL,SLSA,Saint Lukes East Hospital,1043715030.0,Fuzzy,84%,Secondary Hospital Affiliation,Physician,Faulkner,Springfield,MO,,417.875.3846,Surgery - General Surgery,Novant Health
+MT SINAI MEDICAL CENTER,N332,Tioga Medical Center,1447667399.0,Fuzzy,84%,Primary Hospital Affiliation,Nurse Practitioner,Carlson,Tioga,ND,,701.664.3368,Nurse - Nurse Practitioner,Sheet1
+BAPTIST MEMORIAL HOSPITAL FOR WOMEN,BAPW,NEA Baptist Memorial Hospital,1902873185.0,Fuzzy,84%,Secondary Hospital Affiliation,Physician,Dasilva,Hiram,GA,,800.784.3104,Neurology,Eastern Connecticut Health Netw
+BAPTIST HOSPITAL MIAMI,BHFL,Baptist Hospital,1316307374.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Hosni,Lynchburg,VA,,434.200.5895,Hospitalist,St Lukes University Health Netw
+ORLANDO HEALTH LAKE MARY HOSPITAL,OLMH,Orlando Health South Lake Hospital,1063462216.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Cowles,Clearwater,FL,,727.507.3600,Emergency Medicine,Guthrie Clinic
+KETTERING MEDICAL CENTER,OKET,Centerpoint Medical Center,1184913923.0,Fuzzy,84%,Secondary Hospital Affiliation,Physician,Bozarth,Overland Park,KS,,913.253.3070,Internal Medicine,Altru
+TEXAS HEALTH HOSPITAL ROCKWALL,PHOR,Texas Health Rockwall,1871915942.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Debnath,Roanoke,TX,,469.931.9414,Internal Medicine,St Lukes University Health Netw
+DAVIS HOSPITAL AND MEDICAL CENTER,DAVS,Saint Francis Hospital and Medical Center,1194923128.0,Fuzzy,84%,Primary Hospital Affiliation,Physician,Ali,Enfield,CT,,860.714.9040,Hospitalist,Eastern Connecticut Health Netw
+FORT SANDERS REGIONAL MEDICAL CENTER,FSRM,Schneider Regional Medical Center,1104197375.0,Fuzzy,84%,Primary Hospital Affiliation,Nurse Practitioner,Smith Wong,Washington,DC,,888.884.2327,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+PARKVIEW MEDICAL CENTER CO,PMCC,Parkridge Medical Center,1649724832.0,Fuzzy,84%,Secondary Hospital Affiliation,Hospitalist,Self,Augusta,GA,,706.774.5795,Family Practice,Novant Health
+HAZEL HAWKINS MEMORIAL HOSPITAL,HHMH,ASHE MEMORIAL HOSPITAL,nan,Fuzzy,83%,medical group,,,,,,,,Direct EHR 1A
+MEMORIAL HERMANN NORTHEAST HOSPITAL,NOEA,Memorial Hermann Orthopedic & Spine Hospital,1245897602.0,Fuzzy,83%,Secondary Hospital Affiliation,Physician,Aluko,Sugar Land,TX,,281.239.3777,Endocrinology,St Lukes University Health Netw
+HURLEY MEDICAL CENTER,N007,Enloe Medical Center,1982983391.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Aryal,Mooresville,NC,,980.302.7070,Oncology - Hematology/Oncology,Novant Health
+NORMAN REGIONAL HEALTHPLEX,HNRH,Newman Regional Health,1659597524.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Brown,Emporia,KS,,620.343.2376,Pediatric Medicine,Guthrie Clinic
+NATIONWIDE CHILDRENS HOSPITAL AT RMH NICU,RMHN,Nationwide Childrens Hospital,1073030391.0,Fuzzy,83%,Primary Hospital Affiliation,Nurse Practitioner,Dev,Washington,DC,,888.884.2327,Nurse - Nurse Practitioner,Childrens Nationl Hospital
+CARROLL HOSPITAL CENTER,CCHL,Central Carolina Hospital,1982138707.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Smith,Boston,MA,,617.636.5255,Pediatric Medicine,Childrens Nationl Hospital
+NAVICENT HEALTH CHILDRENS HOSPITAL,BKOC,Penn State Health Childrens Hospital,1164876306.0,Fuzzy,83%,Secondary Hospital Affiliation,Physician,Yurkonis,Reading,PA,,,Family Practice,Guthrie Clinic
+STAFFORD HOSPITAL CENTER,SFHC,Stafford Hospital,1639173313.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Conroy,Fredericksburg,VA,,540.741.3269,Pediatric Medicine,Childrens Nationl Hospital
+HENDERSONVILLE MEDICAL CENTER,HEMC,Meadville Medical Center,1013119528.0,Fuzzy,83%,Secondary Hospital Affiliation,Physician,Gates,Titusville,PA,,814.827.9770,Surgery - Orthopedic Surgery,Guthrie Clinic
+BAPTIST ST ANTHONYS HOSPITAL,BSAH,St Anthonys Hospital,1487654166.0,Fuzzy,83%,Secondary Hospital Affiliation,Podiatrist,Sorrento,Wesley Chapel,FL,,813.788.1006,Podiatry,St Lukes University Health Netw
+METHODIST MIDLOTHIAN MEDICAL CENTER,MTMM,Methodist Richardson Medical Center,1609221639.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Hashmi,Dallas,TX,,214.599.8624,Family Practice,Trinity Health ND
+SIERRA VISTA REGIONAL MEDICAL CTR,TENS,Shasta Regional Medical Center,1164503538.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Pusca,Redding,CA,,530.242.6122,Cardiology - Cardiac Surgery,Trinity Health ND
+ST CLAIR HOSPITAL,N100,St Charles Hospital,1548599533.0,Fuzzy,83%,Secondary Hospital Affiliation,Physician,Gill,Southampton,NY,,934.213.4970,Surgery - Vascular Surgery,Guthrie Clinic
+WEST BOCA MEDICAL CENTER,WBOC,Midwest Medical Center,1013166925.0,Fuzzy,83%,Primary Hospital Affiliation,Physician,Kehoe,Galena,IL,,815.777.1340,Emergency Medicine,Trinity Health ND
+MOSES CONE PHYSICIANS SERVICES INC,MCPS,MOBILE PHYSICIAN SERVICES INC.,nan,Fuzzy,83%,medical group,,,,,,,,Direct EHR 1A
+BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE,LKPT,Baylor Scott & White Medical Center - Plano,1013320787.0,Fuzzy,82%,Primary Hospital Affiliation,Physician,Zamir,Garland,TX,,469.800.2000,Pulmonary Disease,St Lukes University Health Netw
+BOONE HOSPITAL CENTER,N251,Berwick Hospital Center,1295718237.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician,Berger,Moosic,PA,,570.343.0693,Psychiatry,St Lukes University Health Netw
+BAYLOR SCOTT AND WHITE MEDICAL CENTER HILLCREST,BSWH,Baylor Scott & White Medical Center - Marble Falls,1750779351.0,Fuzzy,82%,Primary Hospital Affiliation,Physician Assistant,Levy,Burnet,TX,,512.715.6400,Physician Assistant,Novant Health
+STORMONT VAIL MEDICAL CENTER,STOR,Sacramento VA Medical Center,1518943265.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician,Lee,Minot,ND,,701.418.7500,Surgery - Vascular Surgery,Trinity Health ND
+BANNER UNIVERSITY MEDICAL CENTER PHOENIX,GSAM,Ocean University Medical Center,1205880978.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician,Aversa,Phillipsburg,NJ,,908.454.9902,Internal Medicine,St Lukes University Health Netw
+PIEDMONT MEDICAL CENTER FORT MILL,PDFM,Piedmont Medical Center,1124234901.0,Fuzzy,82%,Primary Hospital Affiliation,Physician,Dave,Laurinburg,NC,,910.291.7630,Oncology - Hematology/Oncology,Sheet1
+MEMORIAL HOSPITAL OF SOUTH BEND,MHSB,SIH Memorial Hospital of Carbondale,1265060149.0,Fuzzy,82%,Secondary Hospital Affiliation,Podiatrist,An,Herrin,IL,,618.993.0900,Podiatry,St Lukes University Health Netw
+LEWIS GALE MEDICAL CENTER,CLGL,"GRACE MEDICAL CENTER, LLC",nan,Fuzzy,82%,medical group,,,,,,,,Direct EHR 1A
+LAS PALMAS MEDICAL CENTER,CMBW,Sky Lakes Medical Center,1861752180.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician,Mostovych,Baltimore,MD,,410.296.0414,Otolaryngology,Altru
+MEDICAL CENTER NAVICENT HEALTH,MCOG,Mercy Health - St Vincent Medical Center,1861765083.0,Fuzzy,82%,Primary Hospital Affiliation,Physician,Kim,Toledo,OH,,567.368.1490,Surgery - General Surgery,Novant Health
+COMMUNITY MEMORIAL HOSPITAL OF SAN BUENAVENTURA,COMM,Community Memorial Hospital Avera,1700866332.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician Assistant,Vilhauer,Britton,SD,,605.448.2253,Physician Assistant,Ashley Medical Center
+MEMORIAL HERMANN SUGAR LAND HOSPITAL,MHSL,Memorial Hermann Katy Hospital,1083861066.0,Fuzzy,82%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Island,Houston,TX,,832.355.2666,Anesthesiology - Certified Registered Nurse Anesthetist,Novant Health
+NORTHWESTERN MEDICINE HUNTLEY HOSPITAL,NWHH,Northwestern Medicine Lake Forest Hospital,1326682816.0,Fuzzy,82%,Primary Hospital Affiliation,Physician Assistant,Hirschel,Lake Forest,IL,,847.535.7058,Physician Assistant,St Lukes University Health Netw
+NORTHWEST COMMUNITY HOSPITAL,NWCM,Knox Community Hospital,1730149154.0,Fuzzy,82%,Primary Hospital Affiliation,Physician,Kittoe,Wooster,OH,,330.263.8100,Hospitalist,Novant Health
+PATEWOOD MEMORIAL HOSPITAL,PATE,SID PETERSON MEMORIAL HOSPITAL,nan,Fuzzy,82%,medical group,,,,,,,,Direct EHR 1A
+WOODLAND HEIGHTS MEDICAL CENTER,WHTS,Wyckoff Heights Medical Center,1124080288.0,Fuzzy,82%,Secondary Hospital Affiliation,Physician,Adesanya,Lafayette,LA,,,Critical Care (Intensivists),Eastern Connecticut Health Netw
+HUNTSVILLE MEMORIAL HOSPITAL,HTMH,Lee Memorial Hospital,1003878927.0,Fuzzy,82%,Primary Hospital Affiliation,Podiatrist,Bernstein,Fort Myers,FL,,239.343.0454,Podiatry,St Lukes University Health Netw
+BANNER DESERT MEDICAL CENTER,DSAM,EAST BAY MEDICAL CENTER,nan,Fuzzy,82%,medical group,,,,,,,,Direct EHR 1A
+PROVIDENCE EVERETT MEDICAL CENTER,NNKJ,Providence Sacred Heart Medical Center,1700230216.0,Fuzzy,82%,Primary Hospital Affiliation,Hospitalist,Szwec,Spokane,WA,,509.474.3260,Internal Medicine,St Lukes University Health Netw
+COLLEGE STATION MEDICAL CENTER,CSMC,COPPER STATE MEDICAL CENTER,nan,Fuzzy,81%,medical group,,,,,,,,Direct EHR 1A
+PROVIDENCE PORTLAND MEDICAL CENTER,PPMC,Providence Newberg Medical Center,1912169384.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Laplante,Portland,OR,,503.216.2167,Radiology - Diagnostic Radiology,Guthrie Clinic
+BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKEWAY,LWMC,Baylor Scott & White Medical Center - Marble Falls,1750779351.0,Fuzzy,81%,Primary Hospital Affiliation,Physician Assistant,Levy,Burnet,TX,,512.715.6400,Physician Assistant,Novant Health
+BANNER CASA GRANDE MEDICAL CENTER,CASA,Banner Gateway Medical Center,1922668938.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Fleming,Maricopa,AZ,,520.233.2500,Family Practice,Altru
+NORTH CENTRAL BAPTIST HOSPITAL,MCBH,Centra Virginia Baptist Hospital,1396088092.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Hosni,Lynchburg,VA,,434.200.5895,Hospitalist,St Lukes University Health Netw
+EXEMPLA LUTHERAN MEDICAL CENTER,LUTH,Gundersen Lutheran Medical Center,1114905098.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Junker,Winona,MN,,507.454.3650,Internal Medicine,Childrens Nationl Hospital
+CAROMONT REGIONAL MEDICAL CENTER BELMONT,CBEL,Bluffton Regional Medical Center,1891893731.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Bleza,Bluffton,IN,,260.919.3805,Surgery - General Surgery,Sheet1
+EAST TENNESSEE CHILDRENS HOSPITAL,ETCH,Penn State Health Childrens Hospital,1164876306.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Yurkonis,Reading,PA,,,Family Practice,Guthrie Clinic
+VAIL HEALTH HOSPITAL,VVMC,Oneida Health Hospital,1972161602.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Skutnik,Syracuse,NY,,315.464.5726,Endocrinology,St Lukes University Health Netw
+PIH HEALTH GOOD SAMARITAN HOSPITAL,GSLA,Good Samaritan Hospital,1972845055.0,Fuzzy,81%,Primary Hospital Affiliation,Physician Assistant,Domnine,Sewickley,PA,,412.741.5670,Physician Assistant,St Lukes University Health Netw
+MEMORIAL HERMANN SOUTHWEST HOSPITAL,MHSW,Memorial Hermann Orthopedic & Spine Hospital,1245897602.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Aluko,Sugar Land,TX,,281.239.3777,Endocrinology,St Lukes University Health Netw
+ASCENSION ST VINCENTS SOUTHSIDE,N316,Ascension St Vincent Salem,1215934310.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Shelton,Bethlehem,PA,,484.822.5700,Psychiatry,St Lukes University Health Netw
+BON SECOURS ST FRANCIS MEDICAL CENTER,SFRC,Bon Secours Maryview Medical Center,1548606064.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Spagnolo,Washington,DC,,888.884.2327,Radiology - Diagnostic Radiology,Childrens Nationl Hospital
+TRISTAR STONECREST MEDICAL CENTER,STON,TriStar Summit Medical Center,1447511290.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Watson,Mount Juliet,TN,,615.874.9667,Surgery - General Surgery,Novant Health
+ST JOSEPHS HOSPITAL HEALTH CENTER,SJSY,CHI St Joseph Health Grimes Hospital,1528321213.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician,Agarwal,College Station,TX,,979.764.1111,Internal Medicine,St Lukes University Health Netw
+CARILION CHILDRENS HOSPITAL,CRIL,Arkansas Childrens Hospital,1346232113.0,Fuzzy,81%,Secondary Hospital Affiliation,Physician Assistant,Schafer,East Stroudsburg,PA,,570.421.4000,Physician Assistant,St Lukes University Health Netw
+JACKSON NORTH MEDICAL CENTER,PARK,Cox Medical Center South,1841271723.0,Fuzzy,81%,Primary Hospital Affiliation,Physician,Lee,Springfield,MO,,417.269.6000,Emergency Medicine,Crozer Health
+HEALTHPARK MEDICAL CENTER,HLTH,AnMed Health Medical Center,1952918476.0,Fuzzy,81%,Primary Hospital Affiliation,Nurse Practitioner,Ham,Anderson,SC,,864.512.2373,Nurse - Nurse Practitioner,Novant Health
+BAYLOR SCOTT AND WHITE MEDICAL CENTER FRISCO,BMCF,Baylor Scott & White Medical Center - Plano,1013320787.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Zamir,Garland,TX,,469.800.2000,Pulmonary Disease,St Lukes University Health Netw
+RIO GRANDE REGIONAL HOSPITAL,RGRH,Byrd Regional Hospital,1538200381.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Wease,Leesville,LA,,337.239.7227,Surgery - General Surgery,Trinity Health ND
+NEXUS CHILDRENS HOSPITAL DALLAS,NXCH,Nemours Childrens Hospital - Florida,1639493182.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Narayan,Houston,TX,,606.233.9615,Oncology - Pediatric Hematology/Oncology,Childrens Nationl Hospital
+BANNER UNIVERSITY MEDICAL CENTER TUCSON,UNIH,Ocean University Medical Center,1205880978.0,Fuzzy,80%,Secondary Hospital Affiliation,Physician,Aversa,Phillipsburg,NJ,,908.454.9902,Internal Medicine,St Lukes University Health Netw
+PIEDMONT AUGUSTA HOSPITAL,UNIV,Piedmont Fayette Hospital,1316944697.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Bodne,Newnan,GA,,770.400.2100,Radiology - Diagnostic Radiology,Trinity Health ND
+CUMBERLAND MEDICAL CENTER TN,N300,Grand Strand Medical Center,1114023991.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Coni,Myrtle Beach,SC,,843.449.2336,Neurology,St Lukes University Health Netw
+ALASKA NATIVE MEDICAL CENTER,ANMC,Providence Alaska Medical Center,1336300383.0,Fuzzy,80%,Secondary Hospital Affiliation,Physician,Lundebye,Anchorage,AK,,907.345.4343,Internal Medicine,Childrens Nationl Hospital
+TALLAHASSEE MEMORIAL HOSPITAL,TALA,Tallahassee Memorial HealthCare,1093101263.0,Fuzzy,80%,Primary Hospital Affiliation,Dentist,Chhabra,Washington,DC,,888.884.2327,,Childrens Nationl Hospital
+NOVANT HLTH NEW HANOVER REG MED CTR LLC,Z078,Novant Health New Hanover Regional Medical Center,1760975502.0,Fuzzy,80%,Primary Hospital Affiliation,Physician,Barnes,Wilmington,NC,,910.667.7000,Emergency Medicine,St Lukes University Health Netw
+BAYLOR SCOTT AND WHITE MEDICAL CENTER BRENHAM,BSWB,Baylor Scott & White Medical Center - Plano,1013320787.0,Fuzzy,79%,Primary Hospital Affiliation,Physician,Zamir,Garland,TX,,469.800.2000,Pulmonary Disease,St Lukes University Health Netw
+METHODIST HOSPITAL WESTOVER HILLS,MWOH,WESTOVER HILLS ORTHOPAEDICS,nan,Fuzzy,79%,medical group,,,,,,,,Direct EHR 1A
+MEDICAL CITY ARLINGTON,CMAR,Medical City Alliance,1073834917.0,Fuzzy,79%,Secondary Hospital Affiliation,Physician,Wefuan,Kenansville,NC,,252.214.8598,Emergency Medicine,Novant Health
+THE HOSPITALS OF PROVIDENCE MEMORIAL CAMPUS,PROV,Mission Hospital - Memorial Campus,1508979519.0,Fuzzy,79%,Primary Hospital Affiliation,Physician,Ikelheimer,Manassas,VA,,703.369.8465,Psychiatry,St Lukes University Health Netw
+PRESENCE ST JOSEPH MEDICAL CENTER JOLIET,PSJM,Providence Saint Joseph Medical Center,1134414527.0,Fuzzy,79%,Secondary Hospital Affiliation,Physician,Chartier,Eden Prairie,MN,,952.595.1100,Radiology - Diagnostic Radiology,Guthrie Clinic
+PIEDMONT HENRY HOSPITAL,PHHG,Piedmont Fayette Hospital,1316944697.0,Fuzzy,79%,Primary Hospital Affiliation,Physician,Bodne,Newnan,GA,,770.400.2100,Radiology - Diagnostic Radiology,Trinity Health ND
+TAMPA GENERAL HOSPITAL SPRING HILL,SHRH,Tampa General Hospital,1093800344.0,Fuzzy,79%,Secondary Hospital Affiliation,Physician,Carcoana,Grand Forks,ND,,701.780.5000,Anesthesiology - Anesthesiologist,Altru
+SADDLEBACK MEMORIAL MEDICAL CENTER,SADD,Torrance Memorial Medical Center,1043373087.0,Fuzzy,79%,Primary Hospital Affiliation,Physician,Stacy,Torrance,CA,,310.325.9110,Emergency Medicine,Novant Health
+PIEDMONT CARTERSVILLE MEDICAL CENTER,CVMC,Piedmont Medical Center,1124234901.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Dave,Laurinburg,NC,,910.291.7630,Oncology - Hematology/Oncology,Sheet1
+CHRISTUS CHILDRENS HOSPITAL,SRCH,Golisano Childrens Hospital,1801264643.0,Fuzzy,78%,Primary Hospital Affiliation,Physician Assistant,Spusta,Rochester,NY,,585.341.9150,Physician Assistant,Guthrie Clinic
+ALEXANDRIA HOSPITAL INOVA HEALTH SYSTEM,ALEX,Inova Alexandria Hospital,1922018761.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Hayes,Annandale,VA,,703.535.5568,Family Practice,Childrens Nationl Hospital
+NORTH FULTON REGIONAL HOSPITAL,NFUL,Norman Regional Hospital,1811124365.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Haenel,Norman,OK,,405.515.4644,Oncology - Hematology/Oncology,Novant Health
+BOCA MEDICAL PLAZA,BRMP,"BROCK MEDICAL, PLLC",nan,Fuzzy,78%,medical group,,,,,,,,Direct EHR 1A
+LAKESIDE WOMENS HOSPITAL,LRWC,Lakeview Hospital,1871571083.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Barkmeier,Saint Paul,MN,,651.632.5700,Radiology - Diagnostic Radiology,Altru
+MULTICARE DEACONESS HOSPITAL,N848,Deaconess Midtown Hospital,1942384839.0,Fuzzy,78%,Secondary Hospital Affiliation,Physician,Mills,Matthews,NC,,704.384.5701,Obstetrics/Gynecology,Novant Health
+ASCENSION SETON WILLIAMSON,SMCW,ASCENSION ST. VINCENT WILLIAMSPORT,nan,Fuzzy,78%,medical group,,,,,,,,Direct EHR 1A
+QUEEN OF THE VALLEY MEDICAL CENTER,QVMC,"MOON VALLEY MEDICAL CENTER, P.C.",nan,Fuzzy,78%,medical group,,,,,,,,Direct EHR 1A
+YAVAPAI REGIONAL MEDICAL CENTER EAST CAMPUS,YRME,Yavapai Regional Medical Center - West,1679587422.0,Fuzzy,78%,Secondary Hospital Affiliation,Physician,Gray,Bismarck,ND,,701.530.6500,Urology,Sheet1
+LONG BEACH MEMORIAL MEDICAL CENTER,LBMM,Chicot Memorial Medical Center,1942528518.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Parks,Washington,DC,,202.398.8683,Family Practice,Childrens Nationl Hospital
+BANNER IRONWOOD MEDICAL CENTER,BIWH,Banner Gateway Medical Center,1922668938.0,Fuzzy,78%,Secondary Hospital Affiliation,Physician,Fleming,Maricopa,AZ,,520.233.2500,Family Practice,Altru
+FRANKLIN WOODS COMMUNITY HOSPITAL,FWCH,Wooster Community Hospital,1730149154.0,Fuzzy,78%,Secondary Hospital Affiliation,Physician,Kittoe,Wooster,OH,,330.263.8100,Hospitalist,Novant Health
+MERCYONE WEST DES MOINES MEDICAL CENTER,MODM,Des Moines VA Medical Center,1174964225.0,Fuzzy,78%,Primary Hospital Affiliation,Physician,Seidl,Des Moines,IA,,,Family Practice,Novant Health
+HONORHEALTH SCOTTSDALE HEALTHCARE SHEA,SNTH,HonorHealth Scottsdale Shea Medical Center,1982605770.0,Fuzzy,78%,Primary Hospital Affiliation,Hospitalist,Thompson,Scottsdale,AZ,,480.607.3800,Internal Medicine,Childrens Nationl Hospital
+MACNEAL HOSPITAL,MACN,Medina Hospital,1770070823.0,Fuzzy,77%,Secondary Hospital Affiliation,Physician,Binder,Strongsville,OH,,866.320.4573,Family Practice,Novant Health
+ALEXIAN BROTHERS MED CTR IL,X015,ALEXIAN BROTHERS MEDICAL GROUP,nan,Fuzzy,77%,medical group,,,,,,,,Direct EHR 1A
+ST LUKES NORTH HOSPITAL BARRY ROAD,SLNL,St Lukes Orthopedic Hospital,1578987996.0,Fuzzy,77%,Secondary Hospital Affiliation,Physician,Kirby,Orwigsburg,PA,,272.639.5130,Surgery - Orthopedic Surgery,St Lukes University Health Netw
+BAYLOR SCOTT AND WHITE MEDICAL CENTER CENTENNIAL,CMCT,Baylor Scott & White Medical Center - Marble Falls,1750779351.0,Fuzzy,77%,Primary Hospital Affiliation,Physician Assistant,Levy,Burnet,TX,,512.715.6400,Physician Assistant,Novant Health
+METHODIST METROPOLITAN HOSPITAL,MMTR,Methodist University Hospital,1528043007.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Clarke,Memphis,TN,,,Internal Medicine,Guthrie Clinic
+EL CAMINO HOSPITAL,ELCH,CAMC General Hospital,1326052051.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Ball,Washington,DC,,202.797.3500,Internal Medicine,Childrens Nationl Hospital
+WELLSTAR SPALDING MEDICAL CENTER,SPAR,Springhill Medical Center,1932355765.0,Fuzzy,77%,Secondary Hospital Affiliation,Nurse Practitioner,Walker,Mobile,AL,,251.633.8880,Nurse - Nurse Practitioner,Novant Health
+FAIR OAKS HOSPITAL INOVA HEALTH SYSTEM,FOAK,Inova Fair Oaks Hospital,1295956563.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Sandhu,Reston,VA,,800.777.7904,Pediatric Medicine,Childrens Nationl Hospital
+BAYLOR SCOTT AND WHITE MEDICAL CENTER GRAPEVINE,BAGV,Baylor Scott & White Medical Center - Plano,1013320787.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Zamir,Garland,TX,,469.800.2000,Pulmonary Disease,St Lukes University Health Netw
+BAYLOR MEDICAL CENTER AT IRVING,BIRV,ALL-IN MEDICAL CENTER,nan,Fuzzy,77%,medical group,,,,,,,,Direct EHR 1A
+MEDICAL CENTER OF THE ROCKIES,MCOR,Parkwest Medical Center,1760862908.0,Fuzzy,77%,Secondary Hospital Affiliation,Physician,Brooks,Lenoir City,TN,,865.271.6600,Family Practice,Novant Health
+MEMORIAL HERMANN THE WOODLANDS HOSPITAL,MHTX,Memorial Hermann Orthopedic & Spine Hospital,1245897602.0,Fuzzy,77%,Secondary Hospital Affiliation,Physician,Aluko,Sugar Land,TX,,281.239.3777,Endocrinology,St Lukes University Health Netw
+METHODIST OLIVE BRANCH HOSPITAL,MOBH,Bronson Methodist Hospital,1629102918.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Rao,Roseville,MN,,651.292.2000,Radiology - Diagnostic Radiology,Altru
+MARY BRIDGE CHILDRENS HOSPITAL,MBCH,UVA Childrens Hospital,1811384647.0,Fuzzy,77%,Secondary Hospital Affiliation,Physician,Donowitz,Charlottesville,VA,,,Pediatric Medicine,Childrens Nationl Hospital
+HCA FLORIDA MERCY HOSPITAL,MHMI,Mercy Health - Fairfield Hospital,1518300748.0,Fuzzy,77%,Primary Hospital Affiliation,Physician,Nguyen,Folsom,PA,,610.619.7300,Family Practice,Crozer Health
+SILVER CROSS HOSPITAL,SILV,Sutter Coast Hospital,1073774311.0,Fuzzy,76%,Secondary Hospital Affiliation,Physician,Butler,Hershey,PA,,,Surgery - General Surgery,Crozer Health
+MISSION TRAIL BAPTIST HOSPITAL,MTSA,Baptist Hospital,1316307374.0,Fuzzy,76%,Primary Hospital Affiliation,Physician,Hosni,Lynchburg,VA,,434.200.5895,Hospitalist,St Lukes University Health Netw
+OUTPATIENT CLINIC MEDICAL CITY DALLAS,OPMD,"OUTPATIENT MEDICAL CENTER, INC.",nan,Fuzzy,76%,medical group,,,,,,,,Direct EHR 1A
+FORT HAMILTON HOSPITAL,FTHM,Hilton Head Hospital,1619330297.0,Fuzzy,76%,Primary Hospital Affiliation,Physician,Ajibade,Austell,GA,,770.793.5913,Obstetrics/Gynecology,Novant Health
+FETAL SURGERY CLINIC,FESC,PULASKI SURGERY CLINIC,nan,Fuzzy,76%,medical group,,,,,,,,Direct EHR 1A
+BANNER OCOTILLO MEDICAL CENTER,BAOM,Banner Thunderbird Medical Center,1770882458.0,Fuzzy,76%,Primary Hospital Affiliation,Physician,Milton,Atlanta,GA,,404.605.4177,Hospitalist,Sheet1
+TIMPANOGOS REGIONAL HOSPITAL,TIMP,Transylvania Regional Hospital,1487739579.0,Fuzzy,76%,Secondary Hospital Affiliation,Physician,Pavelock,Statesville,NC,,704.838.0516,Internal Medicine,Novant Health
+HCA HEALTHONE AURORA,CAUS,AURORA HEALTHCARE,nan,Fuzzy,76%,medical group,,,,,,,,Direct EHR 1A
+PRENTICE WOMENS HOSPITAL,PREN,West Penn Hospital,1295720068.0,Fuzzy,76%,Primary Hospital Affiliation,Physician,Estock,Wexford,PA,,412.578.5858,Pediatric Medicine,Novant Health
+THE HOSPITALS OF PROVIDENCE TRANSMOUNTAIN CAMPUS,TRAN,The Hospitals of Providence - Transmountain Campus (AKA THOP Transmountain Campus),1942516521.0,Fuzzy,76%,Primary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NORTHEAST GEORGIA MEDICAL CENTER BRASELTON,NEGB,Northeast Georgia Medical Center Barrow (AKA NGMC Barrow),1477888964.0,Fuzzy,76%,Secondary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HCA HOUSTON HEALTHCARE NORTHWEST,HOUS,"NORTHWEST FLORIDA HEALTHCARE, INC",nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+ASCENSION ST THOMAS HOSP,BPHP,ASCENSION STANDISH HOSPITAL,nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+NYU LANGONE MEDICAL CTR,NYUL,Lebanon VA Medical Center,1215033006.0,Fuzzy,75%,Primary Hospital Affiliation,Physician Assistant,Bohenek,Pottsville,PA,,570.621.4143,Physician Assistant,St Lukes University Health Netw
+MERCY SPRINGFIELD,SJRH,SPRINGFIELD MEDICAL LLC,nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+HALIFAX HOSPITAL MEDICAL CENTER,HLFX,Southern Hills Hospital & Medical Center,1275086498.0,Fuzzy,75%,Secondary Hospital Affiliation,Physician,Kim,Camp Hill,PA,,,Surgery - Vascular Surgery,St Lukes University Health Netw
+THE HOSPITALS OF PROVIDENCE EAST CAMPUS,SPEH,Providence Centralia Hospital,1245222967.0,Fuzzy,75%,Primary Hospital Affiliation,Physician,Hawkins,Centralia,WA,,360.330.1874,Surgery - Orthopedic Surgery,St Lukes University Health Netw
+TEXAS HLTH HARRIS METHODIST HOSPITAL SW FT WORTH,HMSW,Texas Health Fort Worth (FKA Texas Health Harris Methodist Hospital Fort Worth),1154589950.0,Fuzzy,75%,Primary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+USC ARCADIA HOSPITAL,METH,St Barnabas Hospital,1508975798.0,Fuzzy,75%,Primary Hospital Affiliation,Physician,Burke,Lewisburg,WV,,304.645.3220,Osteopathic Manipulative Medicine,Eastern Connecticut Health Netw
+WELLSTAR KENNESTONE HOSPITAL,KENS,Newton-Wellesley Hospital,1285083220.0,Fuzzy,75%,Secondary Hospital Affiliation,Physician,Palmer,Newton Lower Falls,MA,,617.243.6040,Pediatric Medicine,Childrens Nationl Hospital
+HCA FLORIDA PALMS WEST HOSPITAL,PALW,WEST FELICIANA PARISH HOSPITAL,nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+ASCENSION SETON NORTHWEST,SNWH,ASCENSION SETON,nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+MULTICARE YAKIMA MEMORIAL HOSPITAL,YVMH,Santiam Memorial Hospital,1548528706.0,Fuzzy,75%,Primary Hospital Affiliation,Certified Registered Nurse Anesthetist,Blackhurst,Glendive,MT,,406.345.3306,Anesthesiology - Certified Registered Nurse Anesthetist,Trinity Health ND
+TANNER MEDICAL CENTER VILLA RICA,TMCV,Roger Williams Medical Center,1548694219.0,Fuzzy,75%,Secondary Hospital Affiliation,Physician,Valletta,Edison,NJ,,,Emergency Medicine,Guthrie Clinic
+TEXAS HEALTH ALLIANCE HOSPITAL,THAF,Mercy Health - St Anne Hospital,1861765083.0,Fuzzy,75%,Secondary Hospital Affiliation,Physician,Kim,Toledo,OH,,567.368.1490,Surgery - General Surgery,Novant Health
+SCRIPPS MEMORIAL HOSPITAL LA JOLLA,SCLJ,"SCOTT MEMORIAL HOSPITAL, LLC",nan,Fuzzy,75%,medical group,,,,,,,,Direct EHR 1A
+WEST FLORIDA HOSPITAL,WFRM,St Francis Hospital,1750592887.0,Fuzzy,75%,Primary Hospital Affiliation,Physician,Ambati,Federal Way,WA,,253.426.6341,Hospitalist,Childrens Nationl Hospital
+TEXAS HLTH HARRIS METHODIST HOSPITAL FT WORTH,HMFW,Texas Health Fort Worth (FKA Texas Health Harris Methodist Hospital Fort Worth),1154589950.0,Fuzzy,74%,Primary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BAYLOR MEDICAL CENTER AT MCKINNEY,BAYM,ALL-IN MEDICAL CENTER,nan,Fuzzy,74%,medical group,,,,,,,,Direct EHR 1A
+SISTERS OF CHARITY HOSPITAL OF BUFFALO NEW YORK,Z001,St Joseph Campus of Sisters of Charity Hospital,1619382744.0,Fuzzy,74%,Primary Hospital Affiliation,Physician,Ede,Buffalo,NY,,716.891.2400,Emergency Medicine,Guthrie Clinic
+BON SECOURS MEMORIAL REGIONAL MEDICAL CENTER,BSMR,Southern Regional Medical Center,1245724723.0,Fuzzy,74%,Primary Hospital Affiliation,Non-physician practitioner,Henry,Fort Liberty,NC,,910.907.8922,Other,Novant Health
+BAYLOR SCOTT AND WHITE MED CENTER COLLEGE STATION,BSCS,Baylor Scott & White Medical Center - Trophy Club,1205000239.0,Fuzzy,74%,Secondary Hospital Affiliation,Physician,Porter,Nashville,TN,,615.346.8182,Neurology,Novant Health
+MARTIN LUTHER KING JR COMMUNITY HOSPITAL,MLKC,Princeton Community Hospital,1003884503.0,Fuzzy,74%,Primary Hospital Affiliation,Physician,Leap,Columbia,SC,,,Emergency Medicine,Novant Health
+SOUTH NASSAU COMMUNITIES HOSPITAL,SONC,South County Hospital,1801825393.0,Fuzzy,74%,Primary Hospital Affiliation,Physician,Chang,Bethlehem,PA,,484.241.9579,Internal Medicine,St Lukes University Health Netw
+METHODIST HOSPITAL HILL COUNTRY,HCMH,Mease Countryside Hospital,1265492730.0,Fuzzy,74%,Primary Hospital Affiliation,Physician,Aviles,La Crosse,WI,,608.775.2702,Gastroenterology,Altru
+METHODIST LE BONHEUR GERMANTOWN HOSPITAL,MEGT,Bronson Methodist Hospital,1629102918.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Rao,Roseville,MN,,651.292.2000,Radiology - Diagnostic Radiology,Altru
+BAYLOR MEDICAL CENTER AT WAXAHACHIE,BWAX,Baylor Scott & White Medical Center - Plano,1013320787.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Zamir,Garland,TX,,469.800.2000,Pulmonary Disease,St Lukes University Health Netw
+OHIOHEALTH MANSFIELD HOSPITAL,MDHS,OhioHealth Marion General Hospital,1053705566.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Figurasin,Tucson,AZ,,201.951.1223,Emergency Medicine,Guthrie Clinic
+COMMUNITY HOSPITAL OF SAN BERNARDINO,CHSB,Bon Secours Community Hospital,1013943547.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Jean-Louis,Middletown,NY,,845.703.6999,Obstetrics/Gynecology,Guthrie Clinic
+HCA HEALTHONE MOUNTAIN RIDGE,CSUB,PREMIER MOUNTAIN HEALTHCARE,nan,Fuzzy,73%,medical group,,,,,,,,Direct EHR 1A
+MT CARMEL ST ANNS HOSPITAL,MCSA,Mercy Health - St Anne Hospital,1861765083.0,Fuzzy,73%,Secondary Hospital Affiliation,Physician,Kim,Toledo,OH,,567.368.1490,Surgery - General Surgery,Novant Health
+PRESENCE SAINT JOSEPH HOSPITAL CHICAGO,SJLS,Providence St Joseph Hospital Eureka,1427639863.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Hunt,Easton,PA,,866.785.8537,Emergency Medicine,St Lukes University Health Netw
+BANNER FORT COLLINS MEDICAL CENTER,BFCM,Centerpoint Medical Center,1184913923.0,Fuzzy,73%,Secondary Hospital Affiliation,Physician,Bozarth,Overland Park,KS,,913.253.3070,Internal Medicine,Altru
+ADVENTHEALTH SHAWNEE MISSION,SHMH,ADVENTHEALTH HINSDALE,nan,Fuzzy,73%,medical group,,,,,,,,Direct EHR 1A
+ST LUKES HOSPITAL IN CHESTERFIELD,STLK,Geisinger St Lukes Hospital,1144568759.0,Fuzzy,73%,Primary Hospital Affiliation,Physician,Ahmed,Orwigsburg,PA,,272.639.5130,Cardiology - Cardiologist,St Lukes University Health Netw
+UNITED REGIONAL HEALTH CARE SYSTEM,URHS,Lake Regional Health System,1295806750.0,Fuzzy,72%,Primary Hospital Affiliation,Physician,Schwartzman,Winston Salem,NC,,336.718.4510,Internal Medicine,Novant Health
+ST ROSE DOMINICAN HOSPITAL SIENA CAMPUS,SRDC,Mayo Clinic Hospital - Saint Marys Campus,1720390503.0,Fuzzy,72%,Primary Hospital Affiliation,Physician,Ayanian,Rochester,MN,,507.284.2511,Hospitalist,Childrens Nationl Hospital
+HCA HOUSTON HEALTHCARE CLEAR LAKE,CLLK,HOBSON HEALTHCARE CLINIC LLC,nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+TEXAS HEALTH HOSPITAL FRISCO,TXHF,Oneida Health Hospital,1972161602.0,Fuzzy,72%,Primary Hospital Affiliation,Physician,Skutnik,Syracuse,NY,,315.464.5726,Endocrinology,St Lukes University Health Netw
+NASHVILLE MFM CLINIC,NMFM,VILLA FAMILY CLINIC,nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+WOMENS HEALTH SPECIALISTS TN,WHST,"THE VEIN SPECIALISTS, LLC",nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+INTEGRIS HEALTH EDMOND,IHED,DOMINION HEALTH SERVICES INC,nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+UCI HEALTH FOUNTAIN VALLEY,FVHM,VALLEY HEALTH CLINIC INC,nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+NORTH MIAMI CLINIC,NMIA,DREAM YOUTH CLINIC,nan,Fuzzy,72%,medical group,,,,,,,,Direct EHR 1A
+JORDAN VALLEY MEDICAL CENTER WEST VALLEY CAMPUS,JWVC,West Valley Medical Center,1710169966.0,Fuzzy,71%,Primary Hospital Affiliation,Physician,Stratton,Horseheads,NY,,607.795.5199,Anesthesiology - Anesthesiologist,Guthrie Clinic
+TRISTAR CENTENNIAL WOMENS HOSPITAL,WHCT,Reston Hospital Center,1942224522.0,Fuzzy,71%,Primary Hospital Affiliation,Physician,Deshmukh,Fredericksburg,VA,,540.539.6852,Surgery - Vascular Surgery,Guthrie Clinic
+VALLEY BAPTIST MEDICAL CENTER BROWNSVILLE,BRNS,Baltimore VA Medical Center,1942594684.0,Fuzzy,71%,Secondary Hospital Affiliation,Physician,Morgan,Baltimore,MD,,410.605.7650,Family Practice,Childrens Nationl Hospital
+OHIOHEALTH OBLENESS HOSPITAL,OBLE,Jones Memorial Hospital,1518318880.0,Fuzzy,71%,Primary Hospital Affiliation,Physician,Chaudhary,Wellsville,NY,,585.593.1100,Internal Medicine,Guthrie Clinic
+MORRISTOWN HAMBLEN HOSPITAL,MHHP,Morton Hospital,1568780922.0,Fuzzy,71%,Secondary Hospital Affiliation,Physician,Hawkins,Centralia,WA,,360.330.1874,Surgery - Orthopedic Surgery,St Lukes University Health Netw
+CHILDRENS SPECIAL CLINIC AT PROVIDENCE,CSPC,OPEN ARMS CHILDREN'S CLINIC,nan,Fuzzy,71%,medical group,,,,,,,,Direct EHR 1A
+BAPTIST MED CTR JACKSONVILLE,N365,Baptist Medical Center Jacksonville (FKA BMC Downtown),1205210341.0,Fuzzy,70%,Primary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WESTOVER HILLS BAPTIST HOSPITAL,WHBH,Baptist Memorial Hospital - DeSoto,1902873185.0,Fuzzy,70%,Primary Hospital Affiliation,Physician,Dasilva,Hiram,GA,,800.784.3104,Neurology,Eastern Connecticut Health Netw
+MELROSE WAKEFIELD HOSPITAL,WAKE,Lakeview Hospital,1871571083.0,Fuzzy,70%,Primary Hospital Affiliation,Physician,Barkmeier,Saint Paul,MN,,651.632.5700,Radiology - Diagnostic Radiology,Altru
+TEXAS HLTH PRESBYTERIAN HOSP DALLAS,PSYD,Texas Health Dallas (FKA Texas Health Presbyterian Hospital Dallas),1972573590.0,Fuzzy,70%,Primary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PROVIDENCE LITTLE COMP OF MARY MED CTR TORRANCE,LCOM,Providence Little Company of Mary Medical Center San Pedro,1073720983.0,Fuzzy,70%,Secondary Hospital Affiliation,Physician,Schmidt,Minot,ND,,701.418.8000,Hospitalist,Trinity Health ND
+TEXAS HLTH PRESBYTERIAN HOSP PLANO,PSPL,Texas Health Plano (FKA Texas Health Presbyterian Hospital Plano),1306227038.0,Fuzzy,70%,Secondary Hospital Affiliation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HEALTH MANSFIELD,THMF,Texas Health Rockwall,1871915942.0,Fuzzy,70%,Primary Hospital Affiliation,Physician,Debnath,Roanoke,TX,,469.931.9414,Internal Medicine,St Lukes University Health Netw
+HCA HOUSTON HEALTHCARE WEST,WHMC,WASATCH HORIZONS HEALTHCARE,nan,Fuzzy,70%,medical group,,,,,,,,Direct EHR 1A
+SCOTT AND WHITE HOSPITAL ROUND ROCK,SWRR,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HLTH PRESBYTERIAN HOSP ALLEN,ALEN,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHRISTUS ST MICHAEL HEALTH SYSTEM,CSAM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TRISTAR SUMMIT HOSPITAL OFFICE,GMFM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WOMENS AND CHILDRENS CTR AT MOSES CONE CAMPUS,WCCM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NORTH TAMPA OFFICE,PCAT,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AMITA HLTH STS MARY AND ELIZABETH MED CTR CHICAGO,SMNZ,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BAPTIST MED CTR SOUTH JACKSONVILLE,BMCS,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VALLEYWISE HEALTH,MARC,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+DALLAS REGIONAL MED CTR GALLOWAY CAMPUS,MCMQ,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HLTH HARRIS METHODIST HOSP HEB,HAME,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ST DAVIDS GEORGETOWN HOSPITAL,GGTN,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HEALTH HARRIS METHODIST HOSP  STEPHENVILLE,THHS,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+INTEGRIS CANADIAN VALLEY REGIONAL HOSPITAL,ICVH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHILDRENS HOSPITAL COLORADO COLORADO SPRINGS,CSCH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LEGACY SALMON CREEK HOSPITAL,LSCH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CASTLE ROCK ADVENTIST HOSPITAL,CRAH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+OVERLAND PARK  RMC,OLND,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PIEDMONT COLUMBUS REGIONAL MIDTOWN CAMPUS,CRHM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ASCENSION SAINT THOMAS RUTHERFORD,TSMC,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SWEDISH EDMONDS,SEDM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AMITA HEALTH ADVENTIST BOLINGBROOK HOSPITAL,ADBH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BON SECOURS ST MARYS HOSPITAL OF RICHMOND,SMHR,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHRISTUS SANTA ROSA WESTOVER HILLS,CSRW,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+THE WESTERN PENNSYLVANIA HOSP FORBES REG CAMPUS,N166,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHARLESTON AREA DEVELOPMENTAL CLINIC,CNFU,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MEMORIAL REG AND JOE D CHLDRNS HOSP,JDCH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BOONE NEO CLINIC,BNFU,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SADDLEBACK MEMORIAL OFFICE,SDOF,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WINNIE PALMER HOSPITAL FOR WOMEN AND BABIES,WINN,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NASHVILLE OBGYN CLINIC,RCMD,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HEALTH HUGULEY HOSPITAL FORT WORTH SOUTH,HUGM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+EL CAMINO HOSPITAL LOS GATOS,CLOS,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+W TN HLTHCARE JACKSON MADISON COUNTY GENERAL HOSP,JAMD,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+PRESBYTERIAN HOSP IN ALBUQUERQUE,PRSB,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AMITA HEALTH ADVENTIST MED CENTER HINSDALE,ADHS,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MELBOURNE MFM,RBMM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BLUEGRASS OB GYN CLINIC,BLGR,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TEXAS HEALTH PRESBYTERIAN HOSP FLOWER MOUND,THPH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BRIGIDS PATH,BRIG,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HENDERSONVILLE MFM CLINIC,HMFC,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ST LUKES EAST LEES SUMMIT,STLE,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+THE WOMANS HOSPITAL OF TEXAS,TWHT,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UPMC LITITZ,PHLM,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HCA FLORIDA OAK HILL HOSPITAL,OAKH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+JACOBS HOPE,JAHO,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BROWARD HEALTH CORAL SPRINGS,CSPG,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+LEGACY EMANUEL HOSPITAL AND HEALTH CENTER,EMAN,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHILDRENS AT SCOTTISH RITE,CHSR,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+TENNOVA HEALTHCARE CLARKSVILLE,GATE,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BAYLOR SCOTT AND WHITE ALL SAINTS MED CTR FT WORTH,ASEH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+COLUMBIA MEDICAL CENTER OF AURORA NORTH CAMPUS,AURP,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+JOE DIMAGGIO CHILDRENS HOSP OFFICE,JDHO,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CHRISTUS SANTA ROSA HOSPITAL NEW BRAUNFELS,MCKH,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+HCA HOUSTON HEALTHCARE SOUTHEAST,CBMC,NOT FOUND,N/A,No Match,0%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
